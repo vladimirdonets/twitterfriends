@@ -1,0 +1,25 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+   http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+
+    <bean id="Service" class="com.samplecode.twitterfriends.Service">
+        <constructor-arg ref="DS"/>
+        <constructor-arg ref="Classifier"/>
+    </bean>
+
+    <bean id="Mapper" class="com.samplecode.twitterfriends.util.Mapper"/>
+
+    <bean id="DS" class="com.samplecode.twitterfriends.datasource.twitter.TwitterAPIClient">
+        <constructor-arg ref="dsCfg"/>
+    </bean>
+    <bean id="dsCfg" class="com.samplecode.twitterfriends.datasource.twitter.TwitterClientConfig"/>
+
+    <bean id="Classifier" class="com.samplecode.twitterfriends.classifier.cosine.CosineSimilarityClassifier"/>
+
+    <bean id="Sanitizer" class="com.samplecode.twitterfriends.util.text.Sanitizer">
+        <constructor-arg ref="sanitizerCfg"/>
+    </bean>
+    <bean id="sanitizerCfg" class="com.samplecode.twitterfriends.util.text.SanitizerConfig"/>
+
+</beans>

@@ -1,0 +1,3199 @@
+{
+  "userProfile": {
+    "protected": false,
+    "id": 18948365,
+    "name": "San Jose State",
+    "screen_name": "SJSU",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/559887539637481472/S9zLyHHe_normal.jpeg"
+  },
+  "importantWords": [
+    [
+      "#sjsupresident",
+      0.06144587609152673
+    ],
+    [
+      "papazian",
+      0.044029460091179674
+    ],
+    [
+      "@sjsu",
+      0.038807383826804896
+    ],
+    [
+      "mary",
+      0.03874141015571393
+    ],
+    [
+      "#armenian",
+      0.0332413548663109
+    ]
+  ],
+  "friends": [
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 34014188,
+        "name": "Brian Bates",
+        "screen_name": "briansjsu",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/808090613673431040/xPVYmi4__normal.jpg"
+      },
+      "score": 0.3315076570545371,
+      "baseOn": [
+        [
+          "@sjsu",
+          0.05721601461644312
+        ],
+        [
+          "@mikelynch09",
+          0.05166671208577789
+        ],
+        [
+          "grain",
+          0.04574237720919715
+        ],
+        [
+          "#sjsualumni",
+          0.039818042332616425
+        ],
+        [
+          "@paullanning",
+          0.03503500141009144
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 19115626,
+        "name": "Barry Shiller",
+        "screen_name": "barryshiller",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/828981975193038848/heXVficH_normal.jpg"
+      },
+      "score": 0.27574702260987555,
+      "baseOn": [
+        [
+          "@paullanning",
+          0.05465460219974265
+        ],
+        [
+          "#sjsu",
+          0.049793145050931964
+        ],
+        [
+          "exorcism",
+          0.04030003542690675
+        ],
+        [
+          "#armenian",
+          0.03567905422317378
+        ],
+        [
+          "promise",
+          0.024949468140279776
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 24120317,
+        "name": "Paul Lanning",
+        "screen_name": "PaulLanning",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/851690898710642689/U6D_ITjf_normal.jpg"
+      },
+      "score": 0.16288157292543906,
+      "baseOn": [
+        [
+          "#sjsu",
+          0.07881596516441745
+        ],
+        [
+          "#sjsualumni",
+          0.06940351512724204
+        ],
+        [
+          "#sjsuspartans",
+          0.06646196266518731
+        ],
+        [
+          "#fundraising",
+          0.03986486505382545
+        ],
+        [
+          "@sjsuspartanfb",
+          0.03805528474213132
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 24090317,
+        "name": "Phil Paulsen",
+        "screen_name": "SpartanPhil",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/534957934942253056/BVYrtHqc_normal.jpeg"
+      },
+      "score": 0.1395121512940036,
+      "baseOn": [
+        [
+          "@sjsuspartanfb",
+          0.09160251302843102
+        ],
+        [
+          "@lawrencefansjsu",
+          0.06542613855105216
+        ],
+        [
+          "@thesjsuspartan",
+          0.06542613855105216
+        ],
+        [
+          "@krichardson46",
+          0.05234091084084173
+        ],
+        [
+          "@justinallegri",
+          0.045561965309693114
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 1944328207,
+        "name": "SanJoseStateFootball",
+        "screen_name": "SJSUSpartanFB",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/855216835058311168/pyY-D3yb_normal.jpg"
+      },
+      "score": 0.1271812724322701,
+      "baseOn": [
+        [
+          "#letsgo",
+          0.07082269342609299
+        ],
+        [
+          "@sjsuspartanfb",
+          0.06784756941077197
+        ],
+        [
+          "@realcoachcarter",
+          0.05134694127552818
+        ],
+        [
+          "#spartanup",
+          0.04852667668530144
+        ],
+        [
+          "ballers",
+          0.047974823905661955
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 1327855454,
+        "name": "Sarah Prasad",
+        "screen_name": "PrasadSarah",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/578024007670177792/jcsCZO1X_normal.jpeg"
+      },
+      "score": 0.09571806631639367,
+      "baseOn": [
+        [
+          "ohlonechynoweth",
+          0.09159098960660625
+        ],
+        [
+          "@mrstalleya4",
+          0.09159098960660625
+        ],
+        [
+          "@cynloper",
+          0.09159098960660625
+        ],
+        [
+          "828",
+          0.09159098960660625
+        ],
+        [
+          "coteaching",
+          0.09159098960660625
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 526578514,
+        "name": "Kinesiology SJSU",
+        "screen_name": "KinSJSU",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1911792615/kinlogo150_normal.jpg"
+      },
+      "score": 0.09260671623367886,
+      "baseOn": [
+        [
+          "#sjsu",
+          0.07780178914208119
+        ],
+        [
+          "swc",
+          0.06296880535454179
+        ],
+        [
+          "#kin",
+          0.06296880535454179
+        ],
+        [
+          "graduate",
+          0.04844634898233705
+        ],
+        [
+          "69",
+          0.04620382710001991
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 25164991,
+        "name": "SJSU Alumni",
+        "screen_name": "SJSUalumni",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/765595180791533569/sfPWzbNz_normal.jpg"
+      },
+      "score": 0.09059637187474964,
+      "baseOn": [
+        [
+          "#sjsualumni",
+          0.11901816303070382
+        ],
+        [
+          "#sjsu…",
+          0.0983009677259071
+        ],
+        [
+          "brennan",
+          0.0722101171586555
+        ],
+        [
+          "football",
+          0.06668044374722479
+        ],
+        [
+          "brent",
+          0.057891441932206945
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 21245581,
+        "name": "SoFA district",
+        "screen_name": "SoFAdistrict",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/83103099/SoFA_normal.png"
+      },
+      "score": 0.07893813564394501,
+      "baseOn": [
+        [
+          "@continental_bar",
+          0.025408078377734553
+        ],
+        [
+          "21+",
+          0.016938718918489703
+        ],
+        [
+          "rt",
+          0.0162654786457449
+        ],
+        [
+          "#sofastreetfair",
+          0.015793361406230364
+        ],
+        [
+          "@cafestritch",
+          0.014996450111316475
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 50439165,
+        "name": "Michelle Frey",
+        "screen_name": "michellange",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/733448320836734977/aUyUOAQB_normal.jpg"
+      },
+      "score": 0.07823211736642292,
+      "baseOn": [
+        [
+          "https//tco/ddhjznywmv",
+          0.1633785220009733
+        ],
+        [
+          "https//tco/khnl6ucw8z",
+          0.1633785220009733
+        ],
+        [
+          "https//tco/vopejocdlm",
+          0.1633785220009733
+        ],
+        [
+          "#humble",
+          0.1633785220009733
+        ],
+        [
+          "https//tco/wybqjlnrca",
+          0.1633785220009733
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 225630727,
+        "name": "SJSU COMM",
+        "screen_name": "sjsucomm",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/740273006316912640/reZLDIT7_normal.jpg"
+      },
+      "score": 0.07605604374044615,
+      "baseOn": [
+        [
+          "199c",
+          0.11514295836259071
+        ],
+        [
+          "comm",
+          0.09421701000700766
+        ],
+        [
+          "formats\nhttps//tco/jxdlijrsly",
+          0.057571479181295356
+        ],
+        [
+          "245",
+          0.057571479181295356
+        ],
+        [
+          "225\nmay",
+          0.057571479181295356
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 91167403,
+        "name": "SJSU CIES",
+        "screen_name": "sjsu_cies",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/613754134924103680/ETbTHnw5_normal.jpg"
+      },
+      "score": 0.0757849888163665,
+      "baseOn": [
+        [
+          "https//tco/9v8jedsqty",
+          0.026397403118061186
+        ],
+        [
+          "https//tco/howycrjjm6",
+          0.026397403118061186
+        ],
+        [
+          "bloom’",
+          0.026397403118061186
+        ],
+        [
+          "https//tco/qqhotydixb",
+          0.026397403118061186
+        ],
+        [
+          "submersed",
+          0.026397403118061186
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 365599816,
+        "name": "SJSU King Library",
+        "screen_name": "sjsulibrary",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/739881175167049728/KOdE4xxi_normal.jpg"
+      },
+      "score": 0.0745929854877026,
+      "baseOn": [
+        [
+          "#sjsulibrary",
+          0.0958913025919464
+        ],
+        [
+          "#food",
+          0.05859455877902435
+        ],
+        [
+          "@sjsulibrary",
+          0.05015988984040934
+        ],
+        [
+          "rm",
+          0.048828798982520294
+        ],
+        [
+          "rachael",
+          0.04322987183744804
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 2321251879,
+        "name": "SJSU ScholarWorks",
+        "screen_name": "SJSUscholarwork",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/568874270017597440/Wft4BtR9_normal.jpeg"
+      },
+      "score": 0.07407753083117717,
+      "baseOn": [
+        [
+          "#scholarworks",
+          0.3425503011287073
+        ],
+        [
+          "#sjsu",
+          0.14108057764430723
+        ],
+        [
+          "@spartandaily",
+          0.10703716266952133
+        ],
+        [
+          "@sjsulibrary",
+          0.08871134803203823
+        ],
+        [
+          "daily",
+          0.057339029673761324
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 20263183,
+        "name": "Spartan Athletics",
+        "screen_name": "SJSUAthletics",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2163263738/PrimaryMark__Spartan_Head__normal.gif"
+      },
+      "score": 0.06535330270960171,
+      "baseOn": [
+        [
+          "@myleander",
+          0.045633409481501144
+        ],
+        [
+          "womens",
+          0.039597076411978974
+        ],
+        [
+          "@sjsumsoccer",
+          0.0330361613177535
+        ],
+        [
+          "@realcoachcarter",
+          0.032638384957664
+        ],
+        [
+          "@coachbojay",
+          0.028757475018000748
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 20097362,
+        "name": "NBC Bay Area",
+        "screen_name": "nbcbayarea",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/767812410828697601/0AkRxlsB_normal.jpg"
+      },
+      "score": 0.06523494364752358,
+      "baseOn": [
+        [
+          "@nbcbayarea",
+          0.016493836887079734
+        ],
+        [
+          "#comcastcaresday",
+          0.013417134385650072
+        ],
+        [
+          "#breaking",
+          0.009878136512845914
+        ],
+        [
+          "rt",
+          0.008656057660282185
+        ],
+        [
+          "@krisnbc",
+          0.008267087590940799
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 2851236235,
+        "name": "SJSU Swimming&Diving",
+        "screen_name": "SJSUSwim",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/689548250584473600/0upavlpM_normal.jpg"
+      },
+      "score": 0.06411912661073567,
+      "baseOn": [
+        [
+          "#letsgo",
+          0.08316489380093259
+        ],
+        [
+          "@sjsuathletics",
+          0.07568773298712785
+        ],
+        [
+          "@sjsuspartanfb",
+          0.07568773298712785
+        ],
+        [
+          "@lisellis7",
+          0.06716672571151125
+        ],
+        [
+          "@sjsugolf",
+          0.06716672571151125
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 22571858,
+        "name": "The Spartan Daily",
+        "screen_name": "SpartanDaily",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/760535899989880833/DCsk2qfv_normal.jpg"
+      },
+      "score": 0.0625143425747163,
+      "baseOn": [
+        [
+          "opinion",
+          0.054914662606681784
+        ],
+        [
+          "#sjsu",
+          0.040702843365884436
+        ],
+        [
+          "gives",
+          0.034939735314235346
+        ],
+        [
+          "@theyasked",
+          0.03294280825087745
+        ],
+        [
+          "@xoxoxcaro",
+          0.03294280825087745
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 14293310,
+        "name": "TIME",
+        "screen_name": "TIME",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1700796190/Picture_24_normal.png"
+      },
+      "score": 0.05702992663406275,
+      "baseOn": [
+        [
+          "#time100",
+          0.02934958197394717
+        ],
+        [
+          "trump",
+          0.016276049156109446
+        ],
+        [
+          "president",
+          0.013220831520393448
+        ],
+        [
+          "why",
+          0.008121339486863506
+        ],
+        [
+          "trumps",
+          0.007744480401439326
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 2886693024,
+        "name": "SJSU Free Food",
+        "screen_name": "SJSUFreeFood",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/528667806233948160/SeH8Cx7D_normal.jpeg"
+      },
+      "score": 0.05528203509698004,
+      "baseOn": [
+        [
+          "free",
+          0.08460358948792926
+        ],
+        [
+          "https//tco/rzmxb3hxo5",
+          0.07556256642545016
+        ],
+        [
+          "#endhunger",
+          0.07556256642545016
+        ],
+        [
+          "@sjsufreef…",
+          0.07556256642545016
+        ],
+        [
+          "https//tco/wwadpheyim",
+          0.07556256642545016
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 15652540,
+        "name": "KTVU",
+        "screen_name": "KTVU",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/821442706790436868/X-Ti_TkK_normal.jpg"
+      },
+      "score": 0.05524591476016983,
+      "baseOn": [
+        [
+          "@henrykleektvu",
+          0.018103745835664615
+        ],
+        [
+          "@heatherktvu",
+          0.012069163890443078
+        ],
+        [
+          "@ktvu",
+          0.011671314879713717
+        ],
+        [
+          "police",
+          0.01160659688784619
+        ],
+        [
+          "@jasonappelbaum1",
+          0.011520565531786573
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 18993395,
+        "name": "ABC7 News",
+        "screen_name": "abc7newsbayarea",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/594224248505257985/WuV9Mpk3_normal.png"
+      },
+      "score": 0.05521562073040126,
+      "baseOn": [
+        [
+          "@alexisabc7",
+          0.02232599313092385
+        ],
+        [
+          "@mikeniccoabc7",
+          0.015531125656294852
+        ],
+        [
+          "@mikeshumann",
+          0.012376365757359961
+        ],
+        [
+          "@melaniewoodrow",
+          0.011891018080600746
+        ],
+        [
+          "rt",
+          0.011735883855306857
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 67497155,
+        "name": "Fresno State",
+        "screen_name": "Fresno_State",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/764167985011363840/qV0SIiCT_normal.jpg"
+      },
+      "score": 0.05476812148010078,
+      "baseOn": [
+        [
+          "@fresno_state",
+          0.0798384455942368
+        ],
+        [
+          "@fsvintagedays",
+          0.0314360281075032
+        ],
+        [
+          "#fresnostate",
+          0.029732938359233015
+        ],
+        [
+          "@josephicastro",
+          0.0157180140537516
+        ],
+        [
+          "#fsvintagedays",
+          0.01500355886949016
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 16261627,
+        "name": "KCBS 106.9 FM/740 AM",
+        "screen_name": "KCBSNews",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/705915659411177472/uwwzgqKD_normal.jpg"
+      },
+      "score": 0.05266042493395931,
+      "baseOn": [
+        [
+          "#sanfrancisco",
+          0.01891383014089743
+        ],
+        [
+          "#breaking",
+          0.013982399356472544
+        ],
+        [
+          "police",
+          0.013236253262549813
+        ],
+        [
+          "#berkeley",
+          0.011748723224715181
+        ],
+        [
+          "arrested",
+          0.011231223140073309
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 114636415,
+        "name": "Robin",
+        "screen_name": "robinmce",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/565008906057822210/j5KDZ5tk_normal.jpeg"
+      },
+      "score": 0.051865897585615175,
+      "baseOn": [
+        [
+          "sacramento",
+          0.06179546505432965
+        ],
+        [
+          "undocumented",
+          0.05947762907369992
+        ],
+        [
+          "https//tco/8dnfox6…",
+          0.055972271426259365
+        ],
+        [
+          "https//tco/hasjmdlxgb",
+          0.055972271426259365
+        ],
+        [
+          "https//tco/4jgycnlscn",
+          0.055972271426259365
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 21405623,
+        "name": "USA TODAY College",
+        "screen_name": "USATODAYcollege",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/659442842050408448/AqU_c1xp_normal.png"
+      },
+      "score": 0.051593768884823026,
+      "baseOn": [
+        [
+          "@ucberkeley",
+          0.016661792015103562
+        ],
+        [
+          "@anncoulter",
+          0.01451324363737469
+        ],
+        [
+          "https//tco/0wsyr5apms",
+          0.009857326235688564
+        ],
+        [
+          "college",
+          0.009793497168535482
+        ],
+        [
+          "@coliegestudent",
+          0.008727041391726158
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 187621854,
+        "name": "Justin Allegri",
+        "screen_name": "justinallegri",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/488454853358665728/ELC5GsAu_normal.jpeg"
+      },
+      "score": 0.050483130347394524,
+      "baseOn": [
+        [
+          "@thespearsjsu",
+          0.07385757054019276
+        ],
+        [
+          "@lawrencefansjsu",
+          0.07232240720913603
+        ],
+        [
+          "@thesjsuspartan",
+          0.07232240720913603
+        ],
+        [
+          "@krichardson46",
+          0.07232240720913603
+        ],
+        [
+          "@justinallegri",
+          0.06295555341778543
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 1367531,
+        "name": "Fox News",
+        "screen_name": "FoxNews",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/794654746342662144/hHnFe4Sx_normal.jpg"
+      },
+      "score": 0.05001437414962778,
+      "baseOn": [
+        [
+          "@potus",
+          0.024895794854881196
+        ],
+        [
+          "@tuckercarlson",
+          0.010827526680736204
+        ],
+        [
+          "#specialreport",
+          0.010368791276219574
+        ],
+        [
+          "#foxnewsus",
+          0.009571191947279609
+        ],
+        [
+          "#tucker",
+          0.00930,
+          0.016535429078949
+        ],
+        [
+          "i",
+          0.015798179168339952
+        ],
+        [
+          "column",
+          0.009803618720287208
+        ],
+        [
+          "he",
+          0.009704836964746397
+        ],
+        [
+          "but",
+          0.008493188446721442
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 16657699,
+        "name": "KPIX 5",
+        "screen_name": "CBSSF",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/824776593767751683/4PvkTHQL_normal.jpg"
+      },
+      "score": 0.04821743670197568,
+      "baseOn": [
+        [
+          "@nightbeattv",
+          0.0340210607128804
+        ],
+        [
+          "@veronicadlcruz",
+          0.027754023213139273
+        ],
+        [
+          "@cbssf",
+          0.024839098682609653
+        ],
+        [
+          "#sanfrancisco",
+          0.014236176530612602
+        ],
+        [
+          "@kbcwtv",
+          0.013429366070873841
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 356458728,
+        "name": "Mark Haney",
+        "screen_name": "ThinkBiggerSJ",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/693222519214477312/4izthlg7_normal.jpg"
+      },
+      "score": 0.04686943948342464,
+      "baseOn": [
+        [
+          "@grpg",
+          0.04795086182471718
+        ],
+        [
+          "@mbsjtech",
+          0.04155741358142155
+        ],
+        [
+          "@avayastadium",
+          0.03923632754125782
+        ],
+        [
+          "@sjplanning",
+          0.03836068945977374
+        ],
+        [
+          "@d3sanjose",
+          0.03400481720242344
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 80105473,
+        "name": "Sonoma State Univ.",
+        "screen_name": "SSU_1961",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/740252730959110144/TN0muxOg_normal.jpg"
+      },
+      "score": 0.04659729722689781,
+      "baseOn": [
+        [
+          "investiture",
+          0.07889349133284033
+        ],
+        [
+          "@ssu_1961",
+          0.07012754785141362
+        ],
+        [
+          "#dancewithchange",
+          0.06444857049488706
+        ],
+        [
+          "@judysakaki",
+          0.048877401436441724
+        ],
+        [
+          "#nomanation",
+          0.03173038419056956
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 10433782,
+        "name": "Mercury News",
+        "screen_name": "mercnews",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/716045617311522816/I0BYs-DH_normal.jpg"
+      },
+      "score": 0.04587062826272184,
+      "baseOn": [
+        [
+          "warriors",
+          0.008821569440058385
+        ],
+        [
+          "california",
+          0.008647329381226445
+        ],
+        [
+          "raiders",
+          0.007969668812377309
+        ],
+        [
+          "draft",
+          0.00771604994658952
+        ],
+        [
+          "49ers",
+          0.007641746358979676
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 18812301,
+        "name": "Katie Couric",
+        "screen_name": "katiecouric",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/618885246377852928/twm0JqE0_normal.jpg"
+      },
+      "score": 0.04442350000657688,
+      "baseOn": [
+        [
+          "@yahoonews",
+          0.04189434811922157
+        ],
+        [
+          "#100days",
+          0.021636157628837697
+        ],
+        [
+          "@keitholbermann",
+          0.019201576221309885
+        ],
+        [
+          "@inagarten",
+          0.017455978383008986
+        ],
+        [
+          "told",
+          0.017059102805058516
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 176932593,
+        "name": "UC Berkeley",
+        "screen_name": "UCBerkeley",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/667569099300405248/ba6dE8pg_normal.png"
+      },
+      "score": 0.04434218617809082,
+      "baseOn": [
+        [
+          "#sharecalday",
+          0.0764115840257361
+        ],
+        [
+          "#inthisgen",
+          0.05518614401858719
+        ],
+        [
+          "@ucberkeley",
+          0.028701808857478257
+        ],
+        [
+          "cal",
+          0.028575851164264126
+        ],
+        [
+          "@ucberkeleynews",
+          0.025470528008578703
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 3321669866,
+        "name": "Toni Molle",
+        "screen_name": "Toni_Molle",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/737681258138894337/9ZQ0NxjB_normal.jpg"
+      },
+      "score": 0.044297432750603015,
+      "baseOn": [
+        [
+          "@calstate",
+          0.04463246553962149
+        ],
+        [
+          "csu",
+          0.023335350440096513
+        ],
+        [
+          "@sacstate",
+          0.020361498920087946
+        ],
+        [
+          "#csusuccess",
+          0.019386221160847518
+        ],
+        [
+          "rt",
+          0.017163316730516416
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 358308884,
+        "name": "SJSU Music",
+        "screen_name": "SJSUMusic",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/648550307941629952/IEcWKeia_normal.png"
+      },
+      "score": 0.04385319147678844,
+      "baseOn": [
+        [
+          "@hammertheatre",
+          0.5495459376396374
+        ],
+        [
+          "mendelssohns",
+          0.5495459376396374
+        ],
+        [
+          "https//tco/tdnfttqsp9",
+          0.5495459376396374
+        ],
+        [
+          "elijah",
+          0.44967209321526386
+        ],
+        [
+          "@youtube",
+          0.30335955572125467
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 20930376,
+        "name": "Paul Ledesma",
+        "screen_name": "PaulLedesma",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/852542416586326017/UETyjNso_normal.jpg"
+      },
+      "score": 0.043638664443845836,
+      "baseOn": [
+        [
+          "cm",
+          0.037200032701760075
+        ],
+        [
+          "#oakland",
+          0.020959679904127712
+        ],
+        [
+          "@savesfbay",
+          0.018600016350880037
+        ],
+        [
+          "@sjenvironment",
+          0.012400010900586692
+        ],
+        [
+          "@bicyclelobby",
+          0.012400010900586692
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 9532402,
+        "name": "Ben Smith",
+        "screen_name": "BuzzFeedBen",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/796943496896598017/JQkrePn4_normal.jpg"
+      },
+      "score": 0.04348578853424814,
+      "baseOn": [
+        [
+          "@buzzfeednews",
+          0.020382367831580282
+        ],
+        [
+          "@cwarzel",
+          0.01587826708464961
+        ],
+        [
+          "rt",
+          0.01438370370837557
+        ],
+        [
+          "@miriamelder",
+          0.012952871119576092
+        ],
+        [
+          "@kantrowitz",
+          0.009963747015058533
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 3033098871,
+        "name": "The Undefeated",
+        "screen_name": "TheUndefeated",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/758514647813263360/yzufTV7j_normal.jpg"
+      },
+      "score": 0.04255498245586386,
+      "baseOn": [
+        [
+          "#shotsfired",
+          0.022003659316477873
+        ],
+        [
+          "@sportscenter",
+          0.014074274800820505
+        ],
+        [
+          "#empire",
+          0.01300216232337329
+        ],
+        [
+          "his",
+          0.012199226974215181
+        ],
+        [
+          "@serenawilliams",
+          0.009820767092060692
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 5695632,
+        "name": "BuzzFeed",
+        "screen_name": "BuzzFeed",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/687767655214891008/n9pHVYUl_normal.png"
+      },
+      "score": 0.042552616629065836,
+      "baseOn": [
+        [
+          "@buzzfeednews",
+          0.01713926897216875
+        ],
+        [
+          "things",
+          0.010538958473438411
+        ],
+        [
+          "people",
+          0.009184293258164663
+        ],
+        [
+          "17",
+          0.008870221173260907
+        ],
+        [
+          "you",
+          0.00796818080226457
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 851832174,
+        "name": "Candlestick Will",
+        "screen_name": "CandlestickWill",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/848637461924241408/JR0sl0p0_normal.jpg"
+      },
+      "score": 0.04206837497583563,
+      "baseOn": [
+        [
+          "@sfgiants",
+          0.01777201549182971
+        ],
+        [
+          "giants",
+          0.014718139298986977
+        ],
+        [
+          "@pavlovicnbcs",
+          0.01426442438312306
+        ],
+        [
+          "@hankschulman",
+          0.013104652293086869
+        ],
+        [
+          "#sfgiants",
+          0.01284796169847209
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 85606244,
+        "name": "Eric Bonesteel",
+        "screen_name": "ericbonesteel",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/672665142883016705/_BvPgsMN_normal.jpg"
+      },
+      "score": 0.04125233358408976,
+      "baseOn": [
+        [
+          "#scentedfilms",
+          0.08554252802881149
+        ],
+        [
+          "#justcause",
+          0.06592515499409606
+        ],
+        [
+          "@kqedforum",
+          0.050489227674302514
+        ],
+        [
+          "barton",
+          0.02851417600960383
+        ],
+        [
+          "truly…",
+          0.02851417600960383
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 630806368,
+        "name": "SJSUCírculoHispánico",
+        "screen_name": "SJSUCH",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2414506385/p57cihx8w6uokh9g18lm_normal.jpeg"
+      },
+      "score": 0.040866634329923636,
+      "baseOn": [
+        [
+          "206",
+          0.3555885478844713
+        ],
+        [
+          "5pm",
+          0.2145358847786848
+        ],
+        [
+          "clark",
+          0.1924950936350724
+        ],
+        [
+          "movie",
+          0.15751232259114928
+        ],
+        [
+          "hall",
+          0.12665794211325795
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 14763494,
+        "name": "Kris Sanchez",
+        "screen_name": "KrisNBC",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/495025385462312961/iwadwBGj_normal.jpeg"
+      },
+      "score": 0.040099956392218215,
+      "baseOn": [
+        [
+          "@nbcbayarea",
+          0.04412716323336529
+        ],
+        [
+          "@pge4me",
+          0.02716820487144803
+        ],
+        [
+          "#sf",
+          0.019796833586184094
+        ],
+        [
+          "@samnbcbayarea",
+          0.01795423965650781
+        ],
+        [
+          "@level10gc",
+          0.016188318613055253
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 202236493,
+        "name": "SJSU Enrollment",
+        "screen_name": "SJSU_ES",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/857306373113094144/BUKmI6C-_normal.jpg"
+      },
+      "score": 0.039779984336674325,
+      "baseOn": [
+        [
+          "#sjsubound",
+          0.22271072209606357
+        ],
+        [
+          "enroll",
+          0.05206729500387265
+        ],
+        [
+          "intent",
+          0.04903906266227496
+        ],
+        [
+          "\uD83D\uDC99\uD83D\uDC9B",
+          0.04903906266227496
+        ],
+        [
+          "spartans",
+          0.032097610952442325
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 15967775,
+        "name": "The CSU",
+        "screen_name": "calstate",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1586879324/8923_132398296783_51847516783_3097413_6255802_n_normal.jpg"
+      },
+      "score": 0.039751619663794834,
+      "baseOn": [
+        [
+          "csu",
+          0.04479134379776915
+        ],
+        [
+          "@csuexrel",
+          0.031266516462524305
+        ],
+        [
+          "#csusuccess",
+          0.0297689087355833
+        ],
+        [
+          "@ssu_1961",
+          0.0297689087355833
+        ],
+        [
+          "@calstate",
+          0.024477248598910345
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 17070613,
+        "name": "Marcos Breton",
+        "screen_name": "MarcosBreton",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/459853866838671363/eLTjU2Nd_normal.jpeg"
+      },
+      "score": 0.039727831625302606,
+      "baseOn": [
+        [
+          "#sfgiants",
+          0.03765984175385867
+        ],
+        [
+          "arroyo",
+          0.01466571675789861
+        ],
+        [
+          "@rivercats",
+          0.014181768502027766
+        ],
+        [
+          "@thehill",
+          0.012547927512348811
+        ],
+        [
+          "he",
+          0.012362168327003362
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 300490280,
+        "name": "CSUB",
+        "screen_name": "CSUBakersfield",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/603693812574064640/L6OxOIfc_normal.jpg"
+      },
+      "score": 0.03970583859555266,
+      "baseOn": [
+        [
+          "csub",
+          0.06296303686442431
+        ],
+        [
+          "kegley",
+          0.047411806384596175
+        ],
+        [
+          "grad",
+          0.03925829544628002
+        ],
+        [
+          "fest",
+          0.034244368035678124
+        ],
+        [
+          "miss",
+          0.032361763046116855
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 244194215,
+        "name": "Spartan Mambo",
+        "screen_name": "SpartanMambo",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/508058793528147968/jLYIWyC2_normal.png"
+      },
+      "score": 0.03961948630431987,
+      "baseOn": [
+        [
+          "salsa",
+          0.270047355225902
+        ],
+        [
+          "collegiate",
+          0.19519500785622373
+        ],
+        [
+          "bachata",
+          0.09595246530215891
+        ],
+        [
+          "https//tco/rzgg0hrqqd",
+          0.09595246530215891
+        ],
+        [
+          "mambo",
+          0.09595246530215891
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 64224026,
+        "name": "Cal State East Bay",
+        "screen_name": "CalStateEastBay",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/806947677489373184/Rc1uNgq-_normal.jpg"
+      },
+      "score": 0.03781199731948632,
+      "baseOn": [
+        [
+          "#csuebwelcomeday",
+          0.05458244075879017
+        ],
+        [
+          "pioneers",
+          0.03907985460222948
+        ],
+        [
+          "csueb",
+          0.030202359669729496
+        ],
+        [
+          "csuebs",
+          0.027291220379395086
+        ],
+        [
+          "@eastbaypioneers",
+          0.020468415284546317
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 19031057,
+        "name": "KRON4 News",
+        "screen_name": "kron4news",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000639069470/6d4b41afcb0ad5e5d5fd04dc68787a4d_normal.jpeg"
+      },
+      "score": 0.036232890804074123,
+      "baseOn": [
+        [
+          "@kron4news",
+          0.040747507014133856
+        ],
+        [
+          "@srobertskron4",
+          0.016868320764537745
+        ],
+        [
+          "@robinwinstontv",
+          0.016021862222015217
+        ],
+        [
+          "@julesthefirst26",
+          0.014289769008824383
+        ],
+        [
+          "police",
+          0.012924112512109849
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 1013926411,
+        "name": "Noel Grigsby Jr.",
+        "screen_name": "justG_23",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/851123156576120832/1I-BFmU__normal.jpg"
+      },
+      "score": 0.0360323948288009,
+      "baseOn": [
+        [
+          "lol",
+          0.04050178844034957
+        ],
+        [
+          "bro",
+          0.030287419027579032
+        ],
+        [
+          "@_ac_kennedy",
+          0.029283762766956458
+        ],
+        [
+          "\uD83D\uDE02\uD83D\uDE02\uD83D\uDE02\uD83D\uDE02",
+          0.02836744058810172
+        ],
+        [
+          "@confirmcontrol",
+          0.025100368085962683
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 61822673,
+        "name": "Sam Liccardo",
+        "screen_name": "sliccardo",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/670769325523927041/RVD1rwW-_normal.jpg"
+      },
+      "score": 0.03586229989620029,
+      "baseOn": [
+        [
+          "#sanjose",
+          0.027426259049943925
+        ],
+        [
+          "litter",
+          0.021591091319543607
+        ],
+        [
+          "@d3sanjose",
+          0.01795423965650781
+        ],
+        [
+          "@sjpdchief",
+          0.01691002160768102
+        ],
+        [
+          "#beautifysj",
+          0.016100063163709297
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 18002930,
+        "name": "SJSU CoachJC",
+        "screen_name": "SJSU_CoachJC",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/847931940841766912/hnkJU3cV_normal.jpg"
+      },
+      "score": 0.03580647891351273,
+      "baseOn": [
+        [
+          "@ncaa_ec",
+          0.04057050546332894
+        ],
+        [
+          "@coachalle_sjsu",
+          0.04057050546332894
+        ],
+        [
+          "@sjswbb",
+          0.031266516462524305
+        ],
+        [
+          "#projecttakeover",
+          0.030427879097496703
+        ],
+        [
+          "@curtyagurl",
+          0.030427879097496703
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 26267463,
+        "name": "Sacramento State",
+        "screen_name": "sacstate",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2185732123/avatar_goldenS_180x180_normal.jpg"
+      },
+      "score": 0.03525647859963392,
+      "baseOn": [
+        [
+          "@sacstate",
+          0.09385049468176455
+        ],
+        [
+          "@hornetsports",
+          0.025071863248853254
+        ],
+        [
+          "#stingersup",
+          0.02140426153219579
+        ],
+        [
+          "rt",
+          0.017127441531372658
+        ],
+        [
+          "sac",
+          0.015666744363189395
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 63786611,
+        "name": "Adobe",
+        "screen_name": "Adobe",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/857270849308549120/A9UNefJ4_normal.jpg"
+      },
+      "score": 0.03511567220346212,
+      "baseOn": [
+        [
+          "cris",
+          0.02122295604693743
+        ],
+        [
+          "#ownyourimpact",
+          0.017685796705781194
+        ],
+        [
+          "customers",
+          0.01476715532423568
+        ],
+        [
+          "photographer",
+          0.011602000504260315
+        ],
+        [
+          "gifs",
+          0.011577280340240848
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 18917401,
+        "name": "Courtney Cronin",
+        "screen_name": "CourtneyRCronin",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/825390343889702912/KV_V6X2-_normal.jpg"
+      },
+      "score": 0.03483638372258053,
+      "baseOn": [
+        [
+          "warriors",
+          0.019312264123896934
+        ],
+        [
+          "#warriors",
+          0.015441307547979788
+        ],
+        [
+          "durant",
+          0.015064036750553282
+        ],
+        [
+          "kerr",
+          0.013217156000152322
+        ],
+        [
+          "#raiders",
+          0.012833198638142869
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 14112296,
+        "name": "TAXI",
+        "screen_name": "designtaxi",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/446325938121216000/mfMTNQxO_normal.png"
+      },
+      "score": 0.034775738975131885,
+      "baseOn": [
+        [
+          "designers",
+          0.018699397765578215
+        ],
+        [
+          "illustrations",
+          0.013043523759877928
+        ],
+        [
+          "creative",
+          0.012545698398286058
+        ],
+        [
+          "design",
+          0.012299190543534623
+        ],
+        [
+          "finder",
+          0.010766319925635943
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 31510238,
+        "name": "SJSUmosaic",
+        "screen_name": "SJSUmosaic",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/666398745618022400/8upuFe4E_normal.jpg"
+      },
+      "score": 0.03462529099303337,
+      "baseOn": [
+        [
+          "https//tco/6krwxzwooz",
+          0.1633785220009733
+        ],
+        [
+          "sapigao",
+          0.1633785220009733
+        ],
+        [
+          "(student",
+          0.1633785220009733
+        ],
+        [
+          "@bookcharmer",
+          0.1633785220009733
+        ],
+        [
+          "microchips",
+          0.1633785220009733
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 7720142,
+        "name": "(((Dan Cohen)))",
+        "screen_name": "dcstpaul",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/558392983838412800/WgFY8hbN_normal.jpeg"
+      },
+      "score": 0.034381930059226434,
+      "baseOn": [
+        [
+          "@oaklandchamber",
+          0.029291364332094547
+        ],
+        [
+          "@fullcourtpress",
+          0.018307102707559093
+        ],
+        [
+          "@att",
+          0.0179759891897077
+        ],
+        [
+          "@us_ignite",
+          0.014645682166047273
+        ],
+        [
+          "@goodwillintl",
+          0.014645682166047273
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 46229272,
+        "name": "Foothill College",
+        "screen_name": "Foothillnews",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/661226758914486272/0Hnj3SSR_normal.png"
+      },
+      "score": 0.034334857105762805,
+      "baseOn": [
+        [
+          "@foothillprez",
+          0.0667429608805238
+        ],
+        [
+          "@stem_fh",
+          0.0667429608805238
+        ],
+        [
+          "#iamfoothill",
+          0.05720825218330611
+        ],
+        [
+          "foothill",
+          0.050648499685893376
+        ],
+        [
+          "#foothillcollege",
+          0.038138834788870736
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 16739786,
+        "name": "San Diego State",
+        "screen_name": "SDSU",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2623616530/puvdln5v6szq2hw87el3_normal.jpeg"
+      },
+      "score": 0.034067418404101456,
+      "baseOn": [
+        [
+          "sdsu",
+          0.12366843495681747
+        ],
+        [
+          "➡️…",
+          0.03153079219358025
+        ],
+        [
+          "monty",
+          0.021322143958071978
+        ],
+        [
+          "@sdsuadmissions",
+          0.019266949208082907
+        ],
+        [
+          "artpop",
+          0.019266949208082907
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 38994802,
+        "name": "San Jose Jazz",
+        "screen_name": "sanjosejazz",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/770806243577335808/BEupbrYe_normal.jpg"
+      },
+      "score": 0.033979961471402066,
+      "baseOn": [
+        [
+          "#sjzsummerfest",
+          0.15960410070062078
+        ],
+        [
+          "#jazzday",
+          0.07980205035031039
+        ],
+        [
+          "sjz",
+          0.07980205035031039
+        ],
+        [
+          "jazz",
+          0.07560038330882381
+        ],
+        [
+          "@hammer_sjsu",
+          0.0461258510189715
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 2396260770,
+        "name": "Spartan Bookstore",
+        "screen_name": "spartanbooks",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/785361127668535297/CujQ2GLr_normal.jpg"
+      },
+      "score": 0.03365214141005586,
+      "baseOn": [
+        [
+          "spartans",
+          0.09528978251506315
+        ],
+        [
+          "sale❗️stop",
+          0.09445320803181269
+        ],
+        [
+          "❗️flash",
+          0.09445320803181269
+        ],
+        [
+          "https//tco/wlrp60apvm",
+          0.09445320803181269
+        ],
+        [
+          "https//tco/boqgq5nvk0",
+          0.09445320803181269
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 51320411,
+        "name": "Jordan Ramirez",
+        "screen_name": "JRAM_91",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/780667455723048960/uE3nfnKx_normal.jpg"
+      },
+      "score": 0.03359709777865353,
+      "baseOn": [
+        [
+          "@warriorsworld",
+          0.01783083524080631
+        ],
+        [
+          "@scott_ceoofsuh",
+          0.013035145071096892
+        ],
+        [
+          "@jram_91",
+          0.01204758217730526
+        ],
+        [
+          "@_yomek",
+          0.01117298148951162
+        ],
+        [
+          "warriors",
+          0.009993458317696425
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 14988682,
+        "name": "Humboldt State",
+        "screen_name": "humboldtstate",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/755791709477273601/BF9pMOZO_normal.jpg"
+      },
+      "score": 0.03356927912687805,
+      "baseOn": [
+        [
+          "@humboldtstate",
+          0.0885040501556881
+        ],
+        [
+          "hsu",
+          0.0721074
+        ],
+        [
+          "ideafest",
+          0.03605370962645733
+        ],
+        [
+          "@ncj_of_humboldt",
+          0.024035806417638216
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 348881683,
+        "name": "Rebecca Kohn",
+        "screen_name": "Bookcharmer",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2104340043/TeaSqVer_normal.JPG"
+      },
+      "score": 0.03352657299585056,
+      "baseOn": [
+        [
+          "@bayareaartgrind",
+          0.03263328130168333
+        ],
+        [
+          "@kimberlyellis10",
+          0.024573192333479727
+        ],
+        [
+          "@brother_white",
+          0.024573192333479727
+        ],
+        [
+          "kimberly",
+          0.020107288721007734
+        ],
+        [
+          "ellis",
+          0.0172896172553169
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 19889118,
+        "name": "mykeljeffreyinc",
+        "screen_name": "mykeljeffreyinc",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/855819869295529985/xC7ZWQzF_normal.jpg"
+      },
+      "score": 0.0334872606283734,
+      "baseOn": [
+        [
+          "@mitchsmith2020",
+          0.030685306162619348
+        ],
+        [
+          "@realdonaldtrump",
+          0.02409542243145862
+        ],
+        [
+          "@kfiam640",
+          0.015342653081309674
+        ],
+        [
+          "@presldentbannon",
+          0.015342653081309674
+        ],
+        [
+          "rt",
+          0.013711108232817133
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 18036441,
+        "name": "Stanford University",
+        "screen_name": "Stanford",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/520246535632592896/N2cIW5h2_normal.png"
+      },
+      "score": 0.03336234388177227,
+      "baseOn": [
+        [
+          "#nextgreatdiscovery",
+          0.06484847118602065
+        ],
+        [
+          "#tedxstanford",
+          0.022555989977746313
+        ],
+        [
+          "#medx",
+          0.016916992483309735
+        ],
+        [
+          "@stanfordmedx",
+          0.014097493736091446
+        ],
+        [
+          "phd",
+          0.008691624912156942
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 101983635,
+        "name": "City College Times",
+        "screen_name": "SJCCTimes",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2170901173/Untitled-1_normal.png"
+      },
+      "score": 0.03320675123242449,
+      "baseOn": [
+        [
+          "sjcc",
+          0.07029075946553502
+        ],
+        [
+          "metas",
+          0.04686050631035668
+        ],
+        [
+          "times",
+          0.03846050975755024
+        ],
+        [
+          "college",
+          0.03103804722792964
+        ],
+        [
+          "major",
+          0.030768407806040194
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 9677372,
+        "name": "KQED",
+        "screen_name": "KQED",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/639499137025617920/KYzvWpZx_normal.png"
+      },
+      "score": 0.033114734471034635,
+      "baseOn": [
+        [
+          "@kqednews",
+          0.07004744392212783
+        ],
+        [
+          "@kqedforum",
+          0.02810044843352589
+        ],
+        [
+          "via",
+          0.021877795030409174
+        ],
+        [
+          "@kqedarts",
+          0.01875538641586352
+        ],
+        [
+          "@npr",
+          0.012985757345834587
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 55950888,
+        "name": "Lisa Vollendorf",
+        "screen_name": "lisavol",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/820692621563527168/GUbzl6fa_normal.jpg"
+      },
+      "score": 0.032833920054959984,
+      "baseOn": [
+        [
+          "@sonomaseawolves",
+          0.25942620762419066
+        ],
+        [
+          "#dancewithchange",
+          0.19547038963284424
+        ],
+        [
+          "@calstate",
+          0.16577772914716551
+        ],
+        [
+          "sakaki",
+          0.09773519481642212
+        ],
+        [
+          "sakakis",
+          0.0634091466507274
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 17068492,
+        "name": "Chico State",
+        "screen_name": "ChicoState",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/459055920815697920/-2mbiNog_normal.jpeg"
+      },
+      "score": 0.03277295286634584,
+      "baseOn": [
+        [
+          "@chicostate",
+          0.07016160319670783
+        ],
+        [
+          "chico",
+          0.04911312223769548
+        ],
+        [
+          "@hungrywildcats",
+          0.034297902490984467
+        ],
+        [
+          "#wildcatfamily",
+          0.02572342686823835
+        ],
+        [
+          "commencement",
+          0.020199141357435526
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 121597316,
+        "name": "SFChronicle",
+        "screen_name": "sfchronicle",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/695773573919543296/Q1mS960c_normal.jpg"
+      },
+      "score": 0.03257964032594158,
+      "baseOn": [
+        [
+          "via",
+          0.05760867182471311
+        ],
+        [
+          "@sportinggreensf",
+          0.026883563745069807
+        ],
+        [
+          "|",
+          0.017424569450679245
+        ],
+        [
+          "editorial",
+          0.011406940703330695
+        ],
+        [
+          "#sfgiants",
+          0.010943519554291601
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 19607400,
+        "name": "Oakland A's \uD83C\uDF33\uD83D\uDC18⚾️",
+        "screen_name": "Athletics",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/846394419771166724/sKYMh2-c_normal.jpg"
+      },
+      "score": 0.03248118369741645,
+      "baseOn": [
+        [
+          "#rootedinoakland",
+          0.07457114805842754
+        ],
+        [
+          "@davekaval",
+          0.024785650951884026
+        ],
+        [
+          "@athletics",
+          0.01810658254664865
+        ],
+        [
+          "@nbcsauthentic",
+          0.014829669675393037
+        ],
+        [
+          "#athletics",
+          0.014071305208536927
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 29581531,
+        "name": "The SVO",
+        "screen_name": "TheSVO",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/856550652427739136/c_idF_en_normal.jpg"
+      },
+      "score": 0.03235170656744149,
+      "baseOn": [
+        [
+          "#amc2017",
+          0.09463804796925263
+        ],
+        [
+          "walkins",
+          0.06506365797886118
+        ],
+        [
+          "@thesvo",
+          0.06283982152809471
+        ],
+        [
+          "#svomember",
+          0.035489267988469735
+        ],
+        [
+          "distinguished",
+          0.032956733844792266
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 22448281,
+        "name": "content magazine",
+        "screen_name": "contentmag",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2173847319/suqrelogo_normal.jpg"
+      },
+      "score": 0.032294573189968374,
+      "baseOn": [
+        [
+          "#contentpick",
+          0.10422422955234503
+        ],
+        [
+          "#content_pup",
+          0.04466752695100501
+        ],
+        [
+          "@terraamico",
+          0.02977835130067001
+        ],
+        [
+          "4/214/30",
+          0.02977835130067001
+        ],
+        [
+          "svlaureates",
+          0.026363833169832842
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 60208857,
+        "name": "San Jose Now",
+        "screen_name": "SanJoseCP",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/691767377508311041/yt8pUx4I_normal.png"
+      },
+      "score": 0.032074282783188,
+      "baseOn": [
+        [
+          "wind",
+          0.03491691152498994
+        ],
+        [
+          "mph",
+          0.03491691152498994
+        ],
+        [
+          "https//tco/cpbqx52enc",
+          0.034593719096020346
+        ],
+        [
+          "weather",
+          0.028979360961520886
+        ],
+        [
+          "https//tco/cpbqx4kdw4",
+          0.0202620354705262
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 15344948,
+        "name": "CSU Dominguez Hills",
+        "screen_name": "DominguezHills",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/842138121546342401/Vk7VDzvo_normal.jpg"
+      },
+      "score": 0.03193047676015627,
+      "baseOn": [
+        [
+          "csudh",
+          0.12840697562494796
+        ],
+        [
+          "@asicsudh",
+          0.059264757980745215
+        ],
+        [
+          "@dominguezhills",
+          0.04567363679329531
+        ],
+        [
+          "@csudh_artdesign",
+          0.03950983865383015
+        ],
+        [
+          "#toropride",
+          0.03950983865383015
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 273295125,
+        "name": "Angela Santoro",
+        "screen_name": "asantoroAPR",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/725577542392901632/wFfNGBd8_normal.jpg"
+      },
+      "score": 0.03191126062063849,
+      "baseOn": [
+        [
+          "@chelseafc",
+          0.11194454285251873
+        ],
+        [
+          "https//tco/krdg82muer",
+          0.11194454285251873
+        ],
+        [
+          "#chetot",
+          0.11194454285251873
+        ],
+        [
+          "olaaaay",
+          0.11194454285251873
+        ],
+        [
+          "myyyyy",
+          0.11194454285251873
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 48254572,
+        "name": "Philz Coffee",
+        "screen_name": "PhilzCoffee",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/615957761256337409/P13O4djR_normal.png"
+      },
+      "score": 0.031677431410609296,
+      "baseOn": [
+        [
+          "@trycaviar",
+          0.05455780969346581
+        ],
+        [
+          "@threedukes",
+          0.04364624775477265
+        ],
+        [
+          "philz",
+          0.03273468581607949
+        ],
+        [
+          "dm",
+          0.030739602747479722
+        ],
+        [
+          "sorry",
+          0.030090443457300643
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 16825289,
+        "name": "CollegeHumor",
+        "screen_name": "CollegeHumor",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/423212466315603968/rg7S67U3_normal.png"
+      },
+      "score": 0.03116377545617304,
+      "baseOn": [
+        [
+          "these",
+          0.01039062531375155
+        ],
+        [
+          "you",
+          0.007523221380713786
+        ],
+        [
+          "jedi",
+          0.00749559962671718
+        ],
+        [
+          "people",
+          0.007139051482186818
+        ],
+        [
+          "12",
+          0.006599792324711696
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 377430370,
+        "name": "Pi Sigma Alpha, SJSU",
+        "screen_name": "PSA_SJSU",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000713521373/3bb174bee1d9ffde62f4b3ee437f3291_normal.jpeg"
+      },
+      "score": 0.030896738152445685,
+      "baseOn": [
+        [
+          "https//tco/nzoeskbgc2",
+          0.31815817442294797
+        ],
+        [
+          "https//tco/qygpnl47sk",
+          0.31815817442294797
+        ],
+        [
+          "\uD83D\uDE42",
+          0.2816767438671614
+        ],
+        [
+          "attn",
+          0.26033647501936324
+        ],
+        [
+          "\uD83D\uDE01",
+          0.2087138827555882
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 373547790,
+        "name": "Cal State San Marcos",
+        "screen_name": "csusmnews",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/686633364149809153/ZRu-6gol_normal.jpg"
+      },
+      "score": 0.03089514866209744,
+      "baseOn": [
+        [
+          "#csusm",
+          0.14733936671308645
+        ],
+        [
+          "@firstgencollege",
+          0.07717028060471505
+        ],
+        [
+          "cougars",
+          0.0514468537364767
+        ],
+        [
+          "katie",
+          0.03774950980086733
+        ],
+        [
+          "faculty",
+          0.036599380642826376
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 14702626,
+        "name": "Mike Oz",
+        "screen_name": "mikeoz",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/664307650948009984/P6Fj4yA3_normal.jpg"
+      },
+      "score": 0.030669821537327675,
+      "baseOn": [
+        [
+          "@mr_battletested",
+          0.0427156808253032
+        ],
+        [
+          "@jeff_lozano",
+          0.029459090224347034
+        ],
+        [
+          "@capsexaminer",
+          0.027986135713129683
+        ],
+        [
+          "@qamped",
+          0.02504022669069498
+        ],
+        [
+          "@katemccloudsays",
+          0.01620249962339087
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 69056707,
+        "name": "Santa Clara Univ",
+        "screen_name": "SantaClaraUniv",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/827200668930760705/uE1en925_normal.jpg"
+      },
+      "score": 0.030577608233577334,
+      "baseOn": [
+        [
+          "@santaclarauniv",
+          0.09993096099851577
+        ],
+        [
+          "scu",
+          0.05016601920361836
+        ],
+        [
+          "#thankfulscu",
+          0.03762451440271376
+        ],
+        [
+          "ethics",
+          0.03078667858112802
+        ],
+        [
+          "​https//tco/oninbyzgt2",
+          0.02508300960180918
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 3222141973,
+        "name": "joseph",
+        "screen_name": "NooGrayArea",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/849060642338226176/rFLqXBth_normal.jpg"
+      },
+      "score": 0.03053691004917954,
+      "baseOn": [
+        [
+          "@plvtinumwood",
+          0.02903925691290318
+        ],
+        [
+          "@justg_23",
+          0.027721978524880155
+        ],
+        [
+          "@rr_kjohns",
+          0.02570948662998911
+        ],
+        [
+          "@jeethleef",
+          0.024199380760752648
+        ],
+        [
+          "lol",
+          0.022313120704679983
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 17625154,
+        "name": "SVbizjournal",
+        "screen_name": "SVbizjournal",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3316897902/a5e5ca8a6a4fcbd0159c55fe88777fda_normal.jpeg"
+      },
+      "score": 0.030519490784685167,
+      "baseOn": [
+        [
+          "@svbizjournal",
+          0.054435740334572824
+        ],
+        [
+          "#bayareabptw",
+          0.04985925884728224
+        ],
+        [
+          "svbj",
+          0.018912132666210505
+        ],
+        [
+          "silicon",
+          0.015166256460522366
+        ],
+        [
+          "bay",
+          0.015056720892189207
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 35165202,
+        "name": "Lanessa Lozano",
+        "screen_name": "nessaxd",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/856923713798680576/cnJjocwH_normal.jpg"
+      },
+      "score": 0.030468951981668633,
+      "baseOn": [
+        [
+          "i",
+          0.03102118191064811
+        ],
+        [
+          "im",
+          0.026065584108335274
+        ],
+        [
+          "lol",
+          0.023675195912744793
+        ],
+        [
+          "my",
+          0.02187917906323031
+        ],
+        [
+          "me",
+          0.01678719573275925
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 2892455276,
+        "name": "SJSU.SLA",
+        "screen_name": "SJSU_SLA",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/577690672481746944/9i3jtAjx_normal.jpeg"
+      },
+      "score": 0.030308703084988675,
+      "baseOn": [
+        [
+          "@sjsuischool",
+          0.05620901165190798
+        ],
+        [
+          "@slanewengland",
+          0.05151993165371601
+        ],
+        [
+          "#iamalibrarian",
+          0.03434662110247734
+        ],
+        [
+          "@unysla",
+          0.03434662110247734
+        ],
+        [
+          "@slanewyork",
+          0.03434662110247734
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 11347122,
+        "name": "Gavin Newsom",
+        "screen_name": "GavinNewsom",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/847482692467802112/tr2EcQus_normal.jpg"
+      },
+      "score": 0.029633223951515162,
+      "baseOn": [
+        [
+          "pathetic",
+          0.014123844191672924
+        ],
+        [
+          "ban\nfailed",
+          0.014123844191672924
+        ],
+        [
+          "@housegop",
+          0.014123844191672924
+        ],
+        [
+          "$",
+          0.013898003875080056
+        ],
+        [
+          "ca",
+          0.012676639270377606
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 27649623,
+        "name": "Marc J. Spears",
+        "screen_name": "MarcJSpearsESPN",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/838504794536890369/P0xtUg05_normal.jpg"
+      },
+      "score": 0.029626716531010934,
+      "baseOn": [
+        [
+          "@theundefeated",
+          0.04968272550279702
+        ],
+        [
+          "@chrisbhaynes",
+          0.019108740577998856
+        ],
+        [
+          "coach",
+          0.01837269420868137
+        ],
+        [
+          "game",
+          0.014397857265448963
+        ],
+        [
+          "nene",
+          0.014202112870211368
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 18703437,
+        "name": "scott budman",
+        "screen_name": "scottbudman",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/729537013527912449/cWMSXIy__normal.jpg"
+      },
+      "score": 0.02938010785710123,
+      "baseOn": [
+        [
+          "raider",
+          0.02404101572683963
+        ],
+        [
+          "patrol",
+          0.02221731796737506
+        ],
+        [
+          "200",
+          0.019295927719501414
+        ],
+        [
+          "#poweroutage",
+          0.019295927719501414
+        ],
+        [
+          "#breaking",
+          0.01846042267978728
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 944473224,
+        "name": "Fernanda Perdomo-A",
+        "screen_name": "MaFePerdomoA",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/841068783917776901/88TAV6kG_normal.jpg"
+      },
+      "score": 0.02936324945285149,
+      "baseOn": [
+        [
+          "@kathleenwonglau",
+          0.0592456619942
+        ],
+        [
+          "@gcc_highered",
+          0.044612585343439204
+        ],
+        [
+          "@active_minds",
+          0.044612585343439204
+        ],
+        [
+          "ho",
+          0.03949710799613333
+        ],
+        [
+          "pell",
+          0.03273481477196983
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 19426551,
+        "name": "NFL",
+        "screen_name": "NFL",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/857630082961223680/gZFajHOS_normal.jpg"
+      },
+      "score": 0.02924014732744846,
+      "baseOn": [
+        [
+          "#nfldraft",
+          0.049319804881310284
+        ],
+        [
+          "(via",
+          0.022544224445566773
+        ],
+        [
+          "@rapsheet)",
+          0.014850768490445922
+        ],
+        [
+          "@rapsheet",
+          0.013161816965614885
+        ],
+        [
+          "@nflnetwork",
+          0.01217775387653905
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 484564631,
+        "name": "Delta Zeta SJSU",
+        "screen_name": "DeltaZetaSJSU",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/816811485129281536/-1i6PICv_normal.jpg"
+      },
+      "score": 0.02922442591144634,
+      "baseOn": [
+        [
+          "#deltazetasjsu",
+          0.06430856717059587
+        ],
+        [
+          "zeta",
+          0.06430856717059587
+        ],
+        [
+          "104",
+          0.05693466099442624
+        ],
+        [
+          "bake",
+          0.05262120239753087
+        ],
+        [
+          "booth",
+          0.049477122364939966
+        ]
+      ]
+    },
+    {
+      "userProfile": {
+        "protected": false,
+        "id": 399244832,
+        "name": "Chappie Jones",
+        "screen_name": "chappiejones",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/572543741726969856/VsaUz10o_normal.png"
+      },
+      "score": 0.02914157368803776,
+      "baseOn": [
+        [
+          "@chappiejones",
+          0.06861356581379573
+        ],
+        [
+          "district",
+          0.06066602992576629
+        ],
+        [
+          "litter",
+          0.050840561184053536
+        ],
+        [
+          "https//tco/lvejhfpirz",
+          0.03875003406433341
+        ],
+        [
+          "https//tco/drofw5ehew",
+          0.03875003406433341
+        ]
+        },
+        {
+          "userProfile": {
+            "protected": false,
+            "id": 456808166,
+            "name": "Caltrain",
+            "screen_name": "Caltrain",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/796768368149680128/QoSy3-jE_normal.jpg"
+          },
+          "score": 0.02906136244181092,
+          "baseOn": [
+            [
+              "#caltrain",
+              0.061131345016214506
+            ],
+            [
+              "trains",
+              0.023222215410025195
+            ],
+            [
+              "@marknoble",
+              0.02228386677426144
+            ],
+            [
+              "@jackiespeier",
+              0.020258060703874037
+            ]
+            [
+              "@h],["
+              @kathleenwonglau
+              ",0.039207751893597556],["
+              pell
+              ",0.032494999279134885]]},{"
+              userProfile
+              ":{"
+              protected
+              ":false,"
+              id
+              ":98497369,"
+              name
+              ":"
+              Angelica
+              Ochoa
+              ⚾
+              ","
+              screen_name
+              ":"
+              angleik
+              ","
+              profile_image_url
+              ":"
+              http
+              ://pbs.twimg.com/profile_images/856396640592068608/hg_W4iYJ_normal.jpg"},"score":0.028936532625597897,"baseOn":[["@yah_boii_marco_",0.07542787379367573],["@whennboys",0.037713936896837864],["*calls",0.03232623162586103],["@mauriciohenao",0.02155082108390735],["@izzyg8a",0.02155082108390735]]},{"userProfile":{"protected":false,"id":23802723,"name":"Jimmy Durkin","screen_name":"Jimmy_Durkin","profile_image_url":"http://pbs.twimg.com/profile_images/801861375458873344/7mRXKKEP_normal.jpg"},"score":0.028901683720669355,"baseOn":[["#raiders",0.07271318480464187],["lynch",0.023738559255758317],["draft",0.018221849986774858],["mckenzie",0.017896939239925996],["marshawn",0.017538037610083934]]],["escape",0.04517942156594668]]},{"userProfile":{"protected":false,"id":33612317,"name":"Salesforce","screen_name":"salesforce","profile_image_url":"http://pbs.twimg.com/profile_images/716283264881700865/voT_NePC_normal.jpg"},"score":0.028325818490656164,"baseOn":[["salesforce",0.040265436066690766],["#ispysalesforcetower",0.031348342164404554],["service",0.016286823127995904]]},{"userProfile":{"protected":false,"id":15519544,"name":"Ames Research Center","screen_name":"NASAAmes","profile_image_url":"http://pbs.twimg.com/profile_images/639225022339375105/nxkm_C2E_normal.jpg"},"score":0.028232618788437868,"baseOn":[["nasa",0.05068374976816597],["@nasa",0.04884522376657555,0.03633215362313582]]},{"userProfile":{"protected":false,"id":264436262,"name":"Kevin Frandsen","screen_name":"KevinFrandsen","profile_image_url":"http://pbs.twimg.com/profile_images/800551415143809026/NP6HSAwV_normal.jpg"},"score":0.028227425540614606,"baseOn":[["@lolknbrhosts",0.03535090826921644],["@sanjosesharks",0.024737384162562402]]},{"userProfile":{"protected":false,"id":18198414,"name":"warriorsworld","screen_name":"warriorsworld","profile_image_url":"http://pbs.twimg.com/profile_images/542078997538938881/jYadh5Za_normal.jpeg"},"score":0.02788837933331603,"baseOn":[["@dunkcontest",0.03293826523908224],["@andykhliu",0.021958843492721494],["@warriorsworld",0.021238709609829595],["warriors",0.014879291711595997],["steph",0.014751085412353386],["bart",0.0273248878403248],["trains",0.024271485388271518,0.020834835931818788]]},{"userProfile":{"protected":false,"id":26257166,"name":"SportsCenter","screen_name":"SportsCenter","profile_image_url":"http://pbs.twimg.com/profile_images/841791006978768897/wZXGsOZc_normal.jpg"},"score":0.027354687775846265,"baseOn":[["#sctop10",0.05620387771445111,0.02110660957024835],["@espnnba"],["his"],["game"]]},{"userProfile":{"protected":false,"id":484068804,"name":"CASA SJSU","screen_name":"CASASJSU","profile_image_url":"http://pbs.twimg.com/profile_images/748564039123378176/ZoxZfIzw_normal.jpg"},"score":0.027173031856681185,"baseOn":[["11am2pm\nyou",0.28785739590647674],["https//tco/daml4bwlop",0.28785739590647674,0.18883637011219884]]},{"userProfile":{"protected":false,"id":35401219,"name":"Brittany Cohen","screen_name":"BRITTANY_COHEN3","profile_image_url":"http://pbs.twimg.com/profile_images/847233450473959424/BQTuTTAR_normal.jpg"},"score":0.026627718873785046,"baseOn":[["@baysean",0.02890616930454677],["@juliephayer",0.022137986074358084],["@lindsay_trout",0.01875389445926374]]},{"userProfile":{"protected":false,"id":20536157,"name":"Google","screen_name":"Google","profile_image_url":"http://pbs.twimg.com/profile_images/839721704163155970/LI_TRk1z_normal.jpg"},"score":0.026508115640939363,"baseOn":[["https//tco/58jfarmz4g",0.07755286109060733],["steps",0.05928171541662806],["hi"],["account",0.04296521297080208,0.03480192082173794]]},{"userProfile":{"protected":false,"id":18968456,"name":"San Jose Inside","screen_name":"sanjoseinside","profile_image_url":"http://pbs.twimg.com/profile_images/269568169/SanJoseInsideBackground2_normal.jpg"},"score":0.02638560290017684,"baseOn":[["landlord",0.04119693633146431],["says",0.030872224876352234,0.025748085207165195],["landlords",0.02236242879552771]]},{"userProfile":{"protected":false,"id":1574273354,"name":"San Jose State MBB","screen_name":"SJSUMBB","profile_image_url":"http://pbs.twimg.com/profile_images/378800000098606582/0278551e54047520cf0873c89a672508_normal.png"},"score":0.026384072754866494,"baseOn":[["oumar",0.26033647501936324],["barry",0.1313129902119988],["\uD83D\uDC2B",0.10605272480764932],["#alwaysareiver",0.10605272480764932],["@ucsf",0.09648672179047828],["#standupforsciencesf",0.042633667767885755],["ucsf",0.03385596390653008]]},{"userProfile":{"protected":false,"id":76837916,"name":"Laurel Rosenhall","screen_name":"LaurelRosenhall","profile_image_url":"http://pbs.twimg.com/profile_images/703286780074684416/RQ5PlX0d_normal.jpg"},"score":0.025884417992911028,"baseOn":[["@calmatters",0.06770405951720333],["@mlevinreports",0.029016025507372856],["cynical",0.029016025507372856],["ca",0.026042887717063753,0.10714208719208451],["https//tco/apkhus3zsm",0.07142805812805635],["arun",0.053571043596042256],["gandhi",0.053571043596042256,0.05693466099442624],["@cafestritch",0.05693466099442624],["https//tco/lfcsz9itab",0.032154283585297934]]},{"userProfile":{"protected":false,"id":82158644,"name":"San Jose Library","screen_name":"sanjoselibrary","profile_image_url":"http://pbs.twimg.com/profile_images/614647958135398400/Zgc9Q_07_normal.jpg"},"score":0.02563042292256732,"baseOn":[["@sanjoselibrary",0.05897102472045723],["#sjpleresources",0.03825952730402539],["#righttolibrary…",0.03825952730402539],["@jillavisbourne",0,0.11611526522334661],["#csulbearthweek",0.0596154370220514],["@csulb",0.04594389499917279],["ecofair",0.02384617480882056]]},{"userProfile":{"protected":false,"id":98463038,"name":"Team San Jose","screen_name":"TeamSanJose","profile_image_url":"http://pbs.twimg.com/profile_images/786985837716131840/s53PT1cF_normal.jpg"},"score":0.025553737851842808,"baseOn":[["@visitpittsburgh",0.04197920356969453],["@amodernmother",0.04197920356969453],["@teamsanjose",0.034349951565054875],["@sjgiants",0.027538637308028996]]},{"userProfile":{"protected":false,"id":365860748,"name":"Associated Students","screen_name":"AS_CSUMB","profile_image_url":"http://pbs.twimg.com/profile_images/646094343527264256/8X1Y5sGY_normal.png"},"score":0.025481064593631097,"baseOn":[["1000am400pm",0.07196434897661919],["#youotterbethere",0.07196434897661919],["student"]]},{"userProfile":{"protected":false,"id":18747244,"name":"SanJoseMuseumofArt","screen_name":"sjmusart","profile_image_url":"http://pbs.twimg.com/profile_images/774012779552354304/MAINeVJO_normal.jpg"},"score":0.02544355216136412,"baseOn":[["#usdlearns",0.05080877974819051],["@sjmusart"],["lesley",0.03825952730402539]]},{"userProfile":{"protected":false,"id":153454456,"name":"ScholarMatch","screen_name":"ScholarMatch","profile_image_url":"http://pbs.twimg.com/profile_images/857687462432325632/ESjQTVoF_normal.jpg"},"score":0.025315653801324077,"baseOn":[["@826valencia",0.06090685454948123],["@scholarmatch",0.06090685454948123],["@tomhanks",0.05867394147249523],["@sfexaminer",0.030453427274740614],["#ccsf",0.02696150193186935,0.02548009781102535],["giants",0.02036746127304261],["49ers",0.018466147645696665]]},{"userProfile":{"protected":false,"id":11306582,"name":"Cal State Northridge","screen_name":"csunorthridge","profile_image_url":"http://pbs.twimg.com/profile_images/591623186665443328/mU5lYKPc_normal.jpg"},"score":0.0252358491922856,"baseOn":[["#csun",0.0994249854345307],["#csuns"],["#csun’s",0.030376911125809106],["campanella",0.030376911125809106],["#innovationimperative",0.02689375946470385],["project",0.062003312103212506],["design",0.052849529290451405],["pieces",0.047988290016284754],["@ucsc",0.051142176937698916],["#ucsc",0.030685306162619348],["genome",0.023648278948812797]]},{"userProfile":{"protected":false,"id":15749983,"name":"Cisco","screen_name":"Cisco","profile_image_url":"http://pbs.twimg.com/profile_images/757623618226368512/cdMroPZ7_normal.jpg"},"score":0.02483620185750414,"baseOn":[["ciscos",0.03467498268089491],["wed",0.027018446359156893],["tech",0.023116655120596602],["#detectedmovie",0.023116655120596602]]},{"userProfile":{"protected":false,"id":85906543,"name":"Daniel Mano","screen_name":"DMahno","profile_image_url":"http://pbs.twimg.com/profile_images/566665463451484160/B7nZiFno_normal.jpeg"},"score":0.024782117134548268,"baseOn":[["#warriors",0.027451213418630736],["@thompsonscribe",0.025660608415130962],["#raiders",0.02379059997088874],["@mercpurdy",0.02230048970136708],["@bang_sports",0.020608824358877318]]},{"userProfile":{"protected":false,"id":86342401,"name":"Daniel Harris","screen_name":"dyuliharris","profile_image_url":"http://pbs.twimg.com/profile_images/607549365062934528/LxunXaVh_normal.jpg"},"score":0.024684112836080668,"baseOn":[["#agefriendlyca",0.057571479181295356],["#sanjose",0.023987093232570006],["communities",0.021780521717728717]]},{"userProfile":{"protected":false,"id":29280594,"name":"VTA","screen_name":"VTA","profile_image_url":"http://pbs.twimg.com/profile_images/816750525609709568/3gj6aFGE_normal.jpg"},"score":0.024479681977994636,"baseOn":[["^ck",0.04548225612475795],["vta",0.04339878273440411],["@vtacareers",0.0372127550111656]]},{"userProfile":{"protected":false,"id":13014082,"name":"eBay Newsroom","screen_name":"eBayNewsroom","profile_image_url":"http://pbs.twimg.com/profile_images/667048357307662338/PzXHlU9N_normal.png"},"score":0.02437380549654119,"baseOn":[["wenig",0.07157702739978056],["$ebay",0.05856302241800227],["q1"]]},{"userProfile":{"protected":false,"id":64973820,"name":"Metroactive","screen_name":"metroactive","profile_image_url":"http://pbs.twimg.com/profile_images/1325269196/metrotwittericon_normal.png"},"score":0.024299868913897602,"baseOn":[["sofa",0.03577988607284433],["punks",0.030376911125809106],["@zaxavila",0.030376911125809106,0.08994719552060616],["#csusb’s",0.03950983865383015],["sun",0.02638776367103465],["#csusbathletics",0.02257705065933151]]],["#whatdoyouthink",0.03302153807599051],["https//tco/csf5qubhed",0.014446922908245846]]},{"userProfile":{"protected":false,"id":8962112,"name":"Oakland Tribune","screen_name":"OakTribNews","profile_image_url":"http://pbs.twimg.com/profile_images/717071780112797696/-F1_cBGO_normal.jpg"},"score":0.023859534404475677,"baseOn":[["oakland",0.07088410042931031],["berkeley",0.05464524493500831],["piedmont",0.02450163959079952],["coulter",0.017125964606253603]]},{"userProfile":{"protected":false,"id":15486948,"name":"South FIRST FRIDAYS","screen_name":"artwalksj","profile_image_url":"http://pbs.twimg.com/profile_images/555355415/SFF_icon_normal.jpg"},"score":0.02379488887532053,"baseOn":[["@annodomini",0.05796236245641949],["@kaleidgallery",0.04364624775477265],["@workssanjose",0.03864157497094633],["#sclork",0.028981181228209744,0.029273633482014588],["@aasif",0.01916278169634054],["@theirc",0.01756418008920875]]},{"userProfile":{"protected":false,"id":17840988,"name":"Cal State LA","screen_name":"CalStateLA","profile_image_url":"http://pbs.twimg.com/profile_images/743541634030149632/JSK33e9G_normal.jpg"},"score":0.02371710596644269,"baseOn":[["@calstatela",0.06180987028666679],["@sonensheinpbi"],["@ucilaw",0.037085922172000074],["@jzhoodie",0.05097237682454608],["@vikingterritory",0.03822928261840956],["@shreyamiyer",0.028671961963807176]]},{"userProfile":{"protected":false,"id":104108421,"name":"SV Transit Updates","screen_name":"svtransitupdts","profile_image_url":"http://pbs.twimg.com/profile_images/2335778117/tw7inqhbdwu07syrg17q_normal.jpeg"},"score":0.02354438884753232,"baseOn":[["@vta",0.0969538917368385],["rail",0.05086657914709167],["@511sfbay",0.036207598079658974]]},{"userProfile":{"protected":false,"id":368701371,"name":"Alpha Omicron Pi","screen_name":"AOII_SJSU","profile_image_url":"http://pbs.twimg.com/profile_images/807850777066631168/ky3Ci_Ak_normal.jpg"},"score":0.023534850843578002,"baseOn":[["@alphaxideltasj",0.11051067389999404],["\n2",0.04865494467797516],["xi",0.047612402627123254]]},{"userProfile":{"protected":false,"id":14897764,"name":"Chris Calubaquib","screen_name":"ChrisAstro","profile_image_url":"http://pbs.twimg.com/profile_images/813340281261068292/OBS_IqOb_normal.jpg"},"score":0.023487960591179354,"baseOn":[["@usairforce",0.046094811762801835],["@youtube",0.03271524620523335],["#grandfinale",0.026339892435886764]]},{"userProfile":{"protected":false,"id":28932506,"name":"OmniUpdate","screen_name":"omniupdate","profile_image_url":"http://pbs.twimg.com/profile_images/776146751598174208/AlqKSTXu_normal.jpg"},"score":0.023485485494809506,"baseOn":[["ou",0.1454821478049383],["@rebekahrwright",0.11852951596149043],["learned",0.06079541833077591]]},{"userProfile":{"protected":false,"id":35005185,"name":"Military Bowl","screen_name":"MilitaryBowl","profile_image_url":"http://pbs.twimg.com/profile_images/466298332663410689/wDsE5tGz_normal.jpeg"},"score":0.023460606488737906,"baseOn":[["@patriot_point",0.13198701559030593],["#militarybowl",0.13198701559030593],["@militarybowl",0.05279480623612237]]},{"userProfile":{"protected":false,"id":17721573,"name":"Ash Kalra","screen_name":"Ash_Kalra","profile_image_url":"http://pbs.twimg.com/profile_images/821073849668145152/4y724dGV_normal.jpg"},"score":0.023390003322766764,"baseOn":[["@ash_kalra",0.04836032131054797],["@catechcaucus",0.031375460107453346],["sanctuary",0.02013502490039351]]},{"userProfile":{"protected":false,"id":43403778,"name":"San Francisco 49ers","screen_name":"49ers","profile_image_url":"http://pbs.twimg.com/profile_images/795679687175327745/aKqf0bzD_normal.jpg"},"score":0.0233380885387694,"baseOn":[["#49ers",0.05772155016651751],["draft",0.020521997931190174],["#nfldraft",0.018674654031494625],["social",0.04152242697401833],["@smarshinc",0.038393423251816536]]},{"userProfile":{"protected":false,"id":48034316,"name":"Samuel Lam","screen_name":"SamuelYLam","profile_image_url":"http://pbs.twimg.com/profile_images/746857061187624961/keYatFwg_normal.jpg"},"score":0.023178813808388564,"baseOn":[["warriors",0.035865633372951455],["ago",0.020509445275075634],["@actionanh",0.01660715745614289]]},{"userProfile":{"protected":false,"id":23019297,"name":"Cal Poly Pomona","screen_name":"calpolypomona","profile_image_url":"http://pbs.twimg.com/profile_images/784112448659857408/wGcdCkfW_normal.jpg"},"score":0.02311156363754453,"baseOn":[["quad",0.028545274126227895],["pizza",0.02028525273166447]]},{"userProfile":{"protected":false,"id":30476655,"name":"Brodie Brazil","screen_name":"BrodieNBCS","profile_image_url":"http://pbs.twimg.com/profile_images/842455025406300161/c8v4ZPOo_normal.jpg"},"score":0.023067582159020102,"baseOn":[["#athletics",0.03835946553480744],["#sjsharks",0.03540248344129597],["#oilers"],["nbcsca\n\uD83D\uDCF1",0.022941216738721657,0.07207159837896884],["\uD83D\uDC99\uD83D\uDC9B",0.052072030025142935]]},{"userProfile":{"protected":false,"id":64017943,"name":"Peter Allen","screen_name":"pjallen2","profile_image_url":"http://pbs.twimg.com/profile_images/800562541969608704/7seUph7L_normal.jpg"},"score":0.02260418706064835,"baseOn":[["(@",0.0806000708538135],["ca)",0.06211614603888162],["#sjplanning",0.0268666902846045],["@angelicayvette",0.0268666902846045]]},{"userProfile":{"protected":false,"id":18387935,"name":"Metro Newspaper","screen_name":"metronewspaper","profile_image_url":"http://pbs.twimg.com/profile_images/560946730837876736/LAuIuNv-_normal.jpeg"},"score":0.022313473178280783,"baseOn":[["landlord",0.03836051624981937,0.023797450964224674],["tenants",0.023262406126834726,0.03875003406433341],["ibm",0.020448297330807486]]},{"userProfile":{"protected":false,"id":1413760728,"name":"Levi's® Stadium","screen_name":"LevisStadium","profile_image_url":"http://pbs.twimg.com/profile_images/697959334412570624/U2-bN5jP_normal.jpg"},"score":0.022222411059011123,"baseOn":[["@monsterjam",0.055402258110518285]],["monster",0.025460218416029183],["stadium"]]},{"userProfile":{"protected":false,"id":23674342,"name":"The Scope","screen_name":"TheScope","profile_image_url":"http://pbs.twimg.com/profile_images/817548756560134144/pKXvgY_7_normal.jpg"},"score":0.022104944242959057,"baseOn":[["vaccine",0.02278268334435683],["common",0.020555380601735118],["neighborhoods",0.015448851124299114,0.015188455562904553]]},{"userProfile":{"protected":false,"id":2774041405,"name":"SJSU Women's Soccer","screen_name":"sjsusoccer","profile_image_url":"http://pbs.twimg.com/profile_images/839889277836128256/HQW9Ck8Y_normal.jpg"},"score":0.021944097838430744,"baseOn":[["@sjsusoccer",0.2412874646520928],["https//tco/g0f5xjdn8w",0.14743915400087834],["https//tco/3vjwtowjfj",0.14743915400087834]]},{"userProfile":{"protected":false,"id":41504876,"name":"BASE @San Jose State","screen_name":"sjsubase","profile_image_url":"http://pbs.twimg.com/profile_images/1027024786/email_ready_normal.jpg"},"score":0.021899369284218408,"baseOn":[["2017/2018",0.1633785220009733],["https//tco/f6arahquf7"],["#sjsucosac",0.1633785220009733],["#sjsuscience",0.1633785220009733],["\uD83D\uDD25",0.04419808096601062],["@artsalot",0.030024860831304696],["@williamshatner",0.026582076821900995],["@stevewoz",0.023046728189234932,0.02572342686823835],["academic",0.02133947364553939]]},{"userProfile":{"protected":false,"id":14620229,"name":"Santana Row","screen_name":"SantanaRow","profile_image_url":"http://pbs.twimg.com/profile_images/718262498718302208/47H85e95_normal.jpg"},"score":0.02157881606342069,"baseOn":[["#lifeontherow",0.07361982114522883,0.04801696781165805],["\n\n\uD83D\uDCF7"]]},{"userProfile":{"protected":false,"id":97280932,"name":"MoGo BBQ","screen_name":"MoGoBBQ","profile_image_url":"http://pbs.twimg.com/profile_images/701575871023321088/xMlFhcUW_normal.jpg"},"score":0.021538963724491676,"baseOn":[["610pm"],["mogo"],["calaveras",0.11766433701286642],["blvd",0.08633707837667955],["librarian",0.0413924102541247]]},{"userProfile":{"protected":false,"id":173879642,"name":"Veggielution","screen_name":"Veggielution","profile_image_url":"http://pbs.twimg.com/profile_images/596031652414885889/YDt8F_Vy_normal.jpg"},"score":0.02142232787985975,"baseOn":[["@veggielution",0.08357150203736423],["@jumbojibbles",0.08357150203736423],["@applied4good"]]},{"userProfile":{"protected":false,"id":1530807402,"name":"Alpha Sigma Phi SJSU","screen_name":"SJSUAlphaSig","profile_image_url":"http://pbs.twimg.com/profile_images/852025602974429184/dKyorlta_normal.jpg"},"score":0.021390972515714243,"baseOn":[["packets",0.14392869795323837],["@alphaxideltasj",0.09161382706428077],["xi",0.08683595336280098],["soccer"]]},{"userProfile":{"protected":false,"id":45055696,"name":"Colin Kaepernick","screen_name":"Kaepernick7","profile_image_url":"http://pbs.twimg.com/profile_images/456942552491380736/1lbU6hBl_normal.jpeg"},"score":0.021045245111786248,"baseOn":[["@yourrightscamp",0.13550447777415717],["@kaepernick7"],["\uD83D\uDE4C\uD83C\uDFFE",0.03079945843940163],["@leftsentthis",0.030112106172034928,0.057681348416374165],["@calpoly_cafes",0.04614507873309932,0.0377587253844878]]},{"userProfile":{"protected":false,"id":55938384,"name":"Discovery Kingdom","screen_name":"sixflagsDK","profile_image_url":"http://pbs.twimg.com/profile_images/544955070278664192/Fq2TZVbb_normal.jpeg"},"score":0.02085919330433897,"baseOn":[["@waterworldcali",0.06200005450293346],["#svcc2017",0.061008673420864246],["flags",0.061008673420864246],["#svcc",0.04770102053645495]]},{"userProfile":{"protected":false,"id":921764894,"name":"Mary Poffenroth \uD83C\uDF1F","screen_name":"MaryPoffenroth","profile_image_url":"http://pbs.twimg.com/profile_images/852594283777372160/COiN8MJu_normal.jpg"},"score":0.020816558909028785,"baseOn":[["@hormiga",0.03598217448830959],["@lasciencemarch",0.03598217448830959],["@alongsidewild",0.03598217448830959],["#sciencemarch",0.031786595216500096]]},{"userProfile":{"protected":false,"id":35088091,"name":"PRSSA SJSU","screen_name":"prssasjsu","profile_image_url":"http://pbs.twimg.com/profile_images/667188133193056256/uom2FaDR_normal.jpg"},"score":0.02079805441616134,"baseOn":[["#prssasjsu",0.12336745538849003],["@adobe",0.08224497025899336],["soyombo",0.08224497025899336],["@lifeatarray",0.08224497025899336]]},{"userProfile":{"protected":false,"id":11922952,"name":"Carrie Medders","screen_name":"cmedders","profile_image_url":"http://pbs.twimg.com/profile_images/856235430970220544/8iJvGUFJ_normal.jpg"},"score":0.020427851043031454,"baseOn":[["#sjsharks",0.07193934417126935],["#stanleycup",0.0717393660505049],["#wrecktherig",0.05449996684679564],["#becauseitsthecup",0.03923876875000202],["#sacrificeeverything",0.04075284481372592],["@goldmanschool",0.04075284481372592],["@ucanrwater",0.03607994247287236],["@_jonathanstein",0.027168563209150617],["@marionnestle",0.027168563209150617]]},{"userProfile":{"protected":false,"id":57442980,"name":"Jon Wilner","screen_name":"wilnerhotline","profile_image_url":"http://pbs.twimg.com/profile_images/428294649715757057/P-tyl7qN_normal.jpeg"},"score":0.02033965101283716,"baseOn":[["#pac12",0.06396831020143928],["murphystephans",0.02359725808410964]]},{"userProfile":{"protected":false,"id":277866815,"name":"Alex Sanchez","screen_name":"AXELSCYTHE","profile_image_url":"http://pbs.twimg.com/profile_images/853484835590897664/g0WNY8m1_normal.jpg"},"score":0.020330580421666064,"baseOn":[["@degenclub",0.11117251152250136,0.04168969182093801],["@tastebreakrs",0.04168969182093801],["@elmntlco",0.02779312788062534]]},{"userProfile":{"protected":false,"id":15225105,"name":"Cal State Fullerton","screen_name":"csuf","profile_image_url":"http://pbs.twimg.com/profile_images/673942335068049408/0N1rT3re_normal.png"},"score":0.020305280273688338,"baseOn":[["#csufwelcome2017",0.11514295836259071],["quoted",0.11306041200840919],["#storify",0.1099198450081756],["failure",0.027499299090724624],["mycelium",0.025399181991747947],["@sjmqt"]]},{"userProfile":{"protected":false,"id":15949337,"name":"SYNNEX Corporation","screen_name":"SYNNEX","profile_image_url":"http://pbs.twimg.com/profile_images/822184004745097216/ZSmm24xC_normal.jpg"},"score":0.020245674762142077,"baseOn":[["@varnex",0.10033203840723671],["@synnex",0.06270752400452294],["#lenovoaccelerate17",0.03762451440271376],["@lenovochannelna",0.03762451440271376],["#keeppounding",0.027783518228010333],["@panthersbill",0.02059125897725162],["@dwrekdarko",0.04043481815408704],["@envytnc",0.04043481815408704]]},{"userProfile":{"protected":false,"id":819824323,"name":"SJSU Baseball","screen_name":"SJSUBaseball","profile_image_url":"http://pbs.twimg.com/profile_images/2606101978/1ahj7weemulmvjdghrv8_normal.jpeg"},"score":0.02016262400745633,"baseOn":[["af",0.1067193698465367],["sjsu",0.059569660063981865],["runners",0.04694998867378774,0.03694132033149348]]},{"userProfile":{"protected":false,"id":284961454,"name":"Sara Bueno","screen_name":"TVwebproducer","profile_image_url":"http://pbs.twimg.com/profile_images/846902542298574849/aCYG2uOb_normal.jpg"},"score":0.020152005030340227,"baseOn":[["#comcastcaresday",0.09609690018672495],["@nbcbayarea",0.08059911693342854],["#poweroutage",0.029568276980530755],["@jeffranieri"]]},{"userProfile":{"protected":false,"id":332001796,"name":"Garrett Rich","screen_name":"TheG_RichLife","profile_image_url":"http://pbs.twimg.com/profile_images/831286770738212864/ZzvVWfD__normal.jpg"},"score":0.020086291680319047,"baseOn":[["@7gen1d",0.030920743294301854],["melo",0.02382972354432799,0.020967238695553447],["prom"]]},{"userProfile":{"protected":false,"id":323357728,"name":"SJSU GenEC","screen_name":"SJSUGenEC","profile_image_url":"http://pbs.twimg.com/profile_images/1588518900/WRC.twitter.logo_normal.jpg"},"score":0.020065635127900987,"baseOn":[["https//tco/x2hm6xpfve",0.09445320803181269],["https//tco/d9slfxfecr",0.09445320803181269],["genec",0.09445320803181269],["https//tco/nkubplenom",0.09445320803181269]]},{"userProfile":{"protected":false,"id":261260926,"name":"Aundrea Lacy","screen_name":"Aundrea_Lacy","profile_image_url":"http://pbs.twimg.com/profile_images/780204315679916032/oELMgx65_normal.jpg"},"score":0.01997754134609118,"baseOn":[["@pretcetera",0.039253281259974106],["@jwrightsings",0.02661750107130324],["@marcuslemonis",0.026168854173316068],["#santaclaracounty",0.07193357706285036,0.043160146237710216],["https//tco/rbqlp8xlwu"]]},{"userProfile":{"protected":false,"id":580216267,"name":"San Jose Bikeshare","screen_name":"SJ_Bikeshare","profile_image_url":"http://pbs.twimg.com/profile_images/413187357773275136/u-MzHVSU_normal.jpeg"},"score":0.019899155033133158,"baseOn":[["5/3/17",0.2747729688198187],["https//tco/lis1yhmerh"],["lanes",0.15818436166247613]]},{"userProfile":{"protected":false,"id":27961547,"name":"San Jose Sharks","screen_name":"SanJoseSharks","profile_image_url":"http://pbs.twimg.com/profile_images/841344597892583428/XQLzOucx_normal.jpg"},"score":0.019828551478405964,"baseOn":[["#sjsharks",0.09140934455311192],["@sjbarracuda",0.02175645056436076],["#turnupinteal",0.018768451169063945],["game",0.03394413192479535],["@gavinnewsom",0.02599848941848223],["@devdavisca",0.0226294212831969],["@markvhurd",0.05896052411020751],["#moderncx",0.04965096767175369]]},{"userProfile":{"protected":false,"id":92162698,"name":"Simply Measured","screen_name":"simplymeasured","profile_image_url":"http://pbs.twimg.com/profile_images/638840029788241920/TBZkol19_normal.png"},"score":0.01960954391236393,"baseOn":[["#socialmedia",0.06763089469430582],["#social",0.039075628045598915],["metrics",0.02224040612175627]]},{"userProfile":{"protected":false,"id":14620119,"name":"CSU Channel Islands","screen_name":"csuci","profile_image_url":"http://pbs.twimg.com/profile_images/842966588668100609/aNrL8RAJ_normal.jpg"},"score":0.019459529126049393,"baseOn":[["csuci",0.14566277865147018],["#csuci",0.04855425955049005],["@swarmathon"]]},{"userProfile":{"protected":false,"id":54420821,"name":"Dan Fenstermacher","screen_name":"dlfenstermacher","profile_image_url":"http://pbs.twimg.com/profile_images/699356670455984128/gPWJ0-FP_normal.png"},"score":0.019383106245637338,"baseOn":[["https//tco/tcxhvlvxot",0.2747729688198187],["photograph",0.22483604660763193],["stevens",0.1701100100473621],["hidden",0.16577772914716551],["#hesummit17",0.04843269154961251,0.03935156188406017],["studentforce"]]},{"userProfile":{"protected":false,"id":68186183,"name":"Madison Nguyen","screen_name":"madisonnguyen","profile_image_url":"http://pbs.twimg.com/profile_images/548168743176904704/cHOKO8gs_normal.jpeg"},"score":0.01926950006030001,"baseOn":[["surplus",0.1206437323260464],["items",0.07437251318248832],["@hungerathomesv",0.07371957700043917],["households",0.07371957700043917],["vsan",0.04089486989815261],["@vmware",0.036504745574670865]]},{"userProfile":{"protected":false,"id":266191510,"name":"Moveable Feast","screen_name":"mvblfeast","profile_image_url":"http://pbs.twimg.com/profile_images/460228656334258176/JonLwYeR_normal.png"},"score":0.019097394690810288,"baseOn":[["alto",0.0613511511646224],["palo",0.055835212859356616],["trucks",0.05470418217924265],["lunch",0.046329991625701825],["dubs",0.04455019226986923],["#strengthinnumbers",0.04039084868221904],["@nbcsauthentic",0.030952140686992438]]},{"userProfile":{"protected":false,"id":177322636,"name":"CDR","screen_name":"Recycle_Stuff","profile_image_url":"http://pbs.twimg.com/profile_images/1100845116/Address_Icon2_normal.JPG"},"score":0.018563265470911836,"baseOn":[["packaging",0.09967567194611036],["day\nfind",0.06792140802287654],["@envs_sjsu",0.06792140802287654]]},{"userProfile":{"protected":false,"id":36511031,"name":"SFGate","screen_name":"SFGate","profile_image_url":"http://pbs.twimg.com/profile_images/824347328764973056/QlBJFE3K_normal.jpg"},"score":0.018557004461268657,"baseOn":[["@michael_bodley",0.0412315726770113],["sfbartalert",0.0372573517043822],["dirs",0.02526406881344036],["rich",0.024744160015252665],["bart",0.023116200896090823]]},{"userProfile":{"protected":false,"id":43024351,"name":"San Francisco Giants","screen_name":"SFGiants","profile_image_url":"http://pbs.twimg.com/profile_images/853422719077040129/F1p8NbOX_normal.jpg"},"score":0.018540886401086618,"baseOn":[["#sfgiants",0.07506831320474862],["#wearesf",0.02153188059030054],["|",0.018592903749405008],["\n\n#sfgiants",0.016507986431749673],["@sfgiants",0.015235852133349768]]},{"userProfile":{"protected":false,"id":208336820,"name":"Robb Silverstein","screen_name":"RobbSilverstein","profile_image_url":"http://pbs.twimg.com/profile_images/534418044060065792/Lxf-jJpC_normal.jpeg"},"score":0.018523572214408594,"baseOn":[["@bassyupdates",0.05812505109650012],["tredavious",0.03875003406433341],["@johnmiddlekauff",0.03430678290689786],["song",0.02756684118930833],["laid",0.024665261132690977]]},{"userProfile":{"protected":false,"id":45302683,"name":"Oracle Arena","screen_name":"OracleArena","profile_image_url":"http://pbs.twimg.com/profile_images/2900573131/d533843260c94d1e5fc97a9f733c4a88_normal.jpeg"},"score":0.01841819698561367,"baseOn":[["@oraclearena",0.04310722140008064],["@chancetherapper",0.03285684721835713],["chic",0.030134336337140015],["@nilerodgers",0.027229753666828883],["tickets",0.024959053125528343]]},{"userProfile":{"protected":false,"id":188001904,"name":"Federal Student Aid","screen_name":"FAFSA","profile_image_url":"http://pbs.twimg.com/profile_images/2397425461/us15yycj9vkn8rezgtd4_normal.jpeg"},"score":0.018265878256270716,"baseOn":[["aid",0.10032860149716608],["fafsa",0.0986790468433932],["#askfafsa",0.038828474970805806],["school",0.034687282006042014],["financial",0.026866836757657213]]},{"userProfile":{"protected":false,"id":632203247,"name":"Campus Insiders","screen_name":"CampusInsiders","profile_image_url":"http://pbs.twimg.com/profile_images/815105606176702464/3RB_75Mv_normal.jpg"},"score":0.018205891373023468,"baseOn":[["@120sports",0.03748312201487944],["#nfldraft",0.02952153312622521],["@wccsports",0.024134647727062305],["@pertplus",0.023852895827650555],["relive",0.01703778273403611]]},{"userProfile":{"protected":false,"id":20570628,"name":"San Jose Giants","screen_name":"SJGiants","profile_image_url":"http://pbs.twimg.com/profile_images/857698919769268224/ePtXZlqs_normal.jpg"},"score":0.018037968735912322,"baseOn":[["giants",0.07099249732053144],["#sjgiants",0.06384199073290288],["rawhide",0.03851517138909829],["quakes",0.03627385837096754],["ports",0.035597202014423894]]},{"userProfile":{"protected":false,"id":17953019,"name":"Chegg","screen_name":"Chegg","profile_image_url":"http://pbs.twimg.com/profile_images/459373250850471936/i5Kksblr_normal.png"},"score":0.017960977124849696,"baseOn":[["chegg",0.14566277865147018],["@chegg",0.09103923665716886],["tutors"]]},{"userProfile":{"protected":false,"id":286255058,"name":"SJ Parks Foundation","screen_name":"SanJoseParks","profile_image_url":"http://pbs.twimg.com/profile_images/3535791997/b669bc8f0fee35c8bf0eed6d17ab69c9_normal.jpeg"},"score":0.01792984742230835,"baseOn":[["coyote",0.08408400338421945],["woz",0.06543455145858396],["d3",0.06200005450293346,0.04691189293049263,0.18890641606362538],["#sjsusstp",0.08539781593709789],["effects"]]},{"userProfile":{"protected":false,"id":580350473,"name":"Lawrence Fan","screen_name":"lawrencefansjsu","profile_image_url":"http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png"},"score":0.017773545979743545,"baseOn":[["@sjsuathletics",0.13304484314143566],["dormann",0.0727923586393144],["https//tco/nk4w92p5at",0.047226604015906344],["soph"]]},{"userProfile":{"protected":false,"id":18624536,"name":"CSU Monterey Bay","screen_name":"CSUMB","profile_image_url":"http://pbs.twimg.com/profile_images/528708685862678528/uxh9cZse_normal.jpeg"},"score":0.017628210686577397,"baseOn":[["@csumb",0.15112513285090032],["@csumbnatsci",0.15112513285090032],["@webfolk",0.07556256642545016]]},{"userProfile":{"protected":false,"id":1551066493,"name":"Coach Staab","screen_name":"CoachStaab","profile_image_url":"http://pbs.twimg.com/profile_images/739681864068128769/XiqnYl_t_normal.jpg"},"score":0.017547238872288273,"baseOn":[["@hung__le",0.08635721877194302],["#climbthemountain",0.08635721877194302],["falcon",0.08635721877194302],["@coach_mjacobs",0.08635721877194302]]},{"userProfile":{"protected":false,"id":26158208,"name":"SJSUGYMNASTICS","screen_name":"SJSUGYMNASTICS","profile_image_url":"http://pbs.twimg.com/profile_images/676519016773488640/Azx5L3Hn_normal.jpg"},"score":0.017473704073313976,"baseOn":[["#youknowbluegold",0.20607972661486404],["cefcu",0.13738648440990936],["field",0.07271530597526814]]},{"userProfile":{"protected":false,"id":238283933,"name":"Associated Students","screen_name":"ASsjsu","profile_image_url":"http://pbs.twimg.com/profile_images/639217551055040512/cXPzbZzJ_normal.jpg"},"score":0.017420347804173345,"baseOn":[["apply",0.09974574667651098],["applications",0.07422667190917287],["500pm700pm",0.07111770957689426],["https//tco/jtuteqofka"]]},{"userProfile":{"protected":false,"id":218658866,"name":"SJSFF","screen_name":"SJSFF","profile_image_url":"http://pbs.twimg.com/profile_images/821910811878662144/sMLkSJ5Q_normal.jpg"},"score":0.017299430778044203,"baseOn":[["@sundanceorg",0.483600425122881],["master",0.26695640903470413],["https//tco/piahdwumpr",0.2418002125614405],["https//tco/j78hfzxart",0.2418002125614405]]},{"userProfile":{"protected":false,"id":20437286,"name":"US Dept of Education","screen_name":"usedgov","profile_image_url":"http://pbs.twimg.com/profile_images/835230145703215104/akrIE9qD_normal.jpg"},"score":0.017241883131480767,"baseOn":[["@betsydevosed",0.10442650016538667],["wert",0.05897566160035134],["secy",0.052213250082693334],["@potus",0.03473266989510255]]},{"userProfile":{"protected":false,"id":309728693,"name":"Gilead Sciences","screen_name":"GileadSciences","profile_image_url":"http://pbs.twimg.com/profile_images/649607905872744448/VVcPH6FT_normal.jpg"},"score":0.017041624238517072,"baseOn":[["#ilc2017",0.15112513285090032],["gilead",0.09067507971054017],["#beatntds",0.06045005314036012],["@gileadsciences"]]},{"userProfile":{"protected":false,"id":348033025,"name":"Student Involvement","screen_name":"getinvolvedSJSU","profile_image_url":"http://pbs.twimg.com/profile_images/554765738586542080/lTPCeLJp_normal.png"},"score":0.016975121284895457,"baseOn":[["\uD83D\uDC9B\uD83D\uDC99\uD83D\uDC4C\uD83C\uDFFC",0.11405670403841532],["#tiptuesday"],["\n\n#getinvolvedsjsu",0.11405670403841532],["#sjsuspartanpride",0.11405670403841532],["spartan",0.10664639581765324],["@sjsumenssoccer",0.09748499783740466],["match",0.09738339101135261],["https//tco/vgk6qproe2",0.06642862982457157,0.030376911125809106],["@rkelly"],["#damntour",0.030376911125809106],["(videos)",0.030376911125809106],["reginae"]]},{"userProfile":{"protected":false,"id":517209350,"name":"SJSU Softball","screen_name":"SJSUSpartansSB","profile_image_url":"http://pbs.twimg.com/profile_images/491993007684481025/2dVqPsWU_normal.png"},"score":0.016579711128036034,"baseOn":[["#wersparta",0.1999350454877891],["spartans",0.07148659512851949],["@chelseajenner1",0.06352875431080693]]},{"userProfile":{"protected":false,"id":44988185,"name":"NAACP","screen_name":"NAACP","profile_image_url":"http://pbs.twimg.com/profile_images/722461858251321344/DFUbQhxC_normal.jpg"},"score":0.016517195411109995,"baseOn":[["@cornellwbrooks",0.2028525273166447],["@naacp",0.2028525273166447],["charter",0.05709054825245579],["task",0.051648063579862985]]},{"userProfile":{"protected":false,"id":476288457,"name":"©hristian","screen_name":"chrisarroyoo","profile_image_url":"http://pbs.twimg.com/profile_images/854909465643991040/ScFfc0HA_normal.jpg"},"score":0.01647146743693149,"baseOn":[["@hernameisbanks",0.07493808240540512],["@chancetherapper",0.06028281059896928],["\uD83C\uDFA4",0.04995872160360341]],["#beencouragedtour",0.044230232508066666,0.08168926100048665],["outback",0.08168926100048665],["environmentallyfriendly"]]},{"userProfile":{"protected":false,"id":108805248,"name":"SJSU Counseling","screen_name":"SJSUCounseling","profile_image_url":"http://pbs.twimg.com/profile_images/659520975/logo_copy_normal.jpg"},"score":0.016399839232576166,"baseOn":[["mental",0.12876055331183048],["people\n\never",0.12336745538849003,0.12336745538849003]]},{"userProfile":{"protected":false,"id":24238328,"name":"Montalvo Arts Center","screen_name":"montalvoarts","profile_image_url":"http://pbs.twimg.com/profile_images/1303444151/NEWMontalvoLogo-M_normal.jpg"},"score":0.016343046611963022,"baseOn":[["@montalvoarts",0.11700010285230991],["#concerts",0.07800006856820661],["@artpractical",0.07800006856820661],["\uD83D\uDC42\uD83C\uDFFD",0.039000034284103306],["scholar",0.1277280059241072],["webinar",0.0684162056797826],["fulbright"]]},{"userProfile":{"protected":false,"id":23228918,"name":"Jocelyn Benson","screen_name":"JocelynBenson","profile_image_url":"http://pbs.twimg.com/profile_images/659919295816712192/Vf3KaJO2_normal.jpg"},"score":0.01584501741738143,"baseOn":[["@risetowin",0.13141315900078288],["#tobiasharris",0.07884789540046971]]},{"userProfile":{"protected":false,"id":232085994,"name":"Alpha Xi Delta SJSU","screen_name":"AlphaXiDeltaSJ","profile_image_url":"http://pbs.twimg.com/profile_images/616843917909069824/U3cQa4y1_normal.jpg"},"score":0.015521210103415629,"baseOn":[["xi",0.09076518202175125],["\n1",0.07378049020455395],["σν",0.04476373778613486]]},{"userProfile":{"protected":false,"id":1703777863,"name":"SJSU Spartan","screen_name":"SJSUSpartan1992","profile_image_url":"http://pbs.twimg.com/profile_images/378800000368041887/1777515ef41b2201f18a81cd020fba4f_normal.jpeg"},"score":0.015447061328070152,"baseOn":[["@coachthienes",0.4116813948827744],["outthe",0.23250020438600047],]]},{"userProfile":{"protected":false,"id":1948372604,"name":"DowntownCollegePrep","screen_name":"DCP_IAmTheFirst","profile_image_url":"http://pbs.twimg.com/profile_images/839724829410381824/iJrgNdrY_normal.jpg"},"score":0.015444058228899197,"baseOn":[["dcp",0.19819689554216435],["https//tco/np72yatxh8",0.09909844777108218],["https//tco/xc6jfylahq",0.09909844777108218],["@listasorg"]]},{"userProfile":{"protected":false,"id":16319797,"name":"IBM Research","screen_name":"IBMResearch","profile_image_url":"http://pbs.twimg.com/profile_images/2453018418/fn1i02hac59i02ccd9c1_normal.jpeg"},"score":0.015352800963749283,"baseOn":[["ibm",0.0924182723206228],["@aldacenter",0.03795921704261232],["@johnrsmithmm",0.03795921704261232],["#sjsharks",0.0411768201279461],["#sharksforlife",0.03963455949814024],["hugs",0.02906252554825006],["tropical",0.03264945891331949],["behalf",0.0261753384313939]]},{"userProfile":{"protected":false,"id":52228185,"name":"SiliconValleyCreates","screen_name":"SV_Creates","profile_image_url":"http://pbs.twimg.com/profile_images/694271140122918912/0wYOoBL-_normal.png"},"score":0.015031407469425283,"baseOn":[["@sv_creates",0.22677364972356215],["#svlaureates",0.2049154343741021],["svlaureates",0.09070945988942486],["@abc7newsbayarea",0.05176345503240135],["@lockheedmartin",0.023786036148782518,0.05775261511879489],["#wrecktherig",0.05515628285840994,0.04995872160360341]]},{"userProfile":{"protected":false,"id":2803191,"name":"Intel","screen_name":"intel","profile_image_url":"http://pbs.twimg.com/profile_images/580435922514214914/Q6pJp-ZW_normal.png"},"score":0.014956571726234968,"baseOn":[["https//tco/gzkzri4wm1",0.1610161232810201],["mm",0.03220322465620402]]},{"userProfile":{"protected":false,"id":567360618,"name":"edX","screen_name":"edXOnline","profile_image_url":"http://pbs.twimg.com/profile_images/717789136606928896/ddrecp7p_normal.jpg"},"score":0.014912455256399877,"baseOn":[["#edxprofcert",0.08224497025899336],["@w3c",0.061683727694245016],["@ritonline",0.0610606597377375,0.040707106491825],["@largeburrito",0.040707106491825],["overload"],["…",0.02394026631796422],["/r/writingprompts",0.02177399482768487],["you",0.014805394269812892],["villain",0]]},{"userProfile":{"protected":false,"id":1112622565,"name":"Aaron Lington","screen_name":"AaronLington","profile_image_url":"http://pbs.twimg.com/profile_images/3149690388/e01eb06096a4aa4755d69966a9c3ec16_normal.jpeg"},"score":0.014152273633714565,"baseOn":[["#jazz",0.11405670403841532],["@aaronlington"],["motter",0.11405670403841532],["throckmorton",0.11405670403841532],["@myleander",0.034518034253711374],["@sjsuathletics"]]},{"userProfile":{"protected":false,"id":50448609,"name":"AutoNation Cure Bowl","screen_name":"CureBowl","profile_image_url":"http://pbs.twimg.com/profile_images/822187037885366272/8dP-eYJa_normal.jpg"},"score":0.01409170040800925,"baseOn":[["#curebowl",0.10333342417155578],["golf",0.09398866488997208],["@curebowl",0.05166671208577789]]},{"userProfile":{"protected":false,"id":24252924,"name":"San Jose Police Dept","screen_name":"SanJosePD","profile_image_url":"http://pbs.twimg.com/profile_images/591446356788518912/tqW25DYs_normal.png"},"score":0.013878314430258196,"baseOn":[["#sjpd",0.13446879732351927],["sjpd",0.08915713370054093],["911",0.0513459495138807,0.037612263528059964]]},{"userProfile":{"protected":false,"id":2163248328,"name":"Cindy Chavez","screen_name":"SupCindyChavez","profile_image_url":"http://pbs.twimg.com/profile_images/378800000665658137/5581f0d65c2825b375c735641a12d297_normal.jpeg"},"score":0.01386264090095786,"baseOn":[["judge",0.062188760232588895],["@jeffsessions",0.049753130156675],["order",0.0456041958342987],["https//tco/gbfwkuhc1a",0.10075008856726686,0.08919763555793445],["https//tco/xc5hy3l7ib"]]},{"userProfile":{"protected":false,"id":44819615,"name":"The San Jose Blog","screen_name":"TheSanJoseBlog","profile_image_url":"http://pbs.twimg.com/profile_images/1783009812/thesanjosebloglogocenter2_normal.png"},"score":0.013714601064460872,"baseOn":[["https//tco/3xlagqqak1",0.06869324220495468],["palms",0.06869324220495468],["https//tco/fqqe3qzxkg",0.06869324220495468],["caminata",0.06869324220495468]]},{"userProfile":{"protected":false,"id":2279553860,"name":"SJSU Meteorology","screen_name":"SJSUmeteorology","profile_image_url":"http://pbs.twimg.com/profile_images/420292141940609024/_73Re4WF_normal.png"},"score":0.01355708171428107,"baseOn":[["@climatecentral",0.07056426436617913],["@climatehawk1",0.04704284291078609],["@tomniziol",0.023521421455393043],["#i80",0.023521421455393043,0.1325770887166096],["inconvenience",0.09246186619147731],["melody",0.08760877266718858],["@melomelly2",0.08760877266718858]]},{"userProfile":{"protected":false,"id":234040109,"name":"sjeconomy.com","screen_name":"sjeconomy","profile_image_url":"http://pbs.twimg.com/profile_images/601071578068090881/d4yb_JOw_normal.jpg"},"score":0.013529276137564763,"baseOn":[["#whysj",0.06716672571151125],["#dtsj",0.052577225935664114],["#f8",0.0440618196928464]]},{"userProfile":{"protected":false,"id":53449752,"name":"Bay Area Art Grind","screen_name":"bayareaartgrind","profile_image_url":"http://pbs.twimg.com/profile_images/1538066407/cropped-danny-lk-merritt_normal.jpg"},"score":0.013460580867822074,"baseOn":[["(ca)",0.06500005714017218],["artists",0.04403919329781976],["applicants",0.040880805544718075]]},{"userProfile":{"protected":false,"id":376502929,"name":"Snapchat","screen_name":"Snapchat","profile_image_url":"http://pbs.twimg.com/profile_images/616039686734123008/syFSpLD0_normal.jpg"},"score":0.013419042604335978,"baseOn":[["snapchat",0.12062747819618706],["@snapchat",0.0603218661630232,0.036859788500219585,0.1198566086367571],["#wacgolf",0.05297473011326593],["#wacsb",0.05003168955141782]]},{"userProfile":{"protected":false,"id":45856207,"name":"Chris Filippi","screen_name":"chrisfilippi","profile_image_url":"http://pbs.twimg.com/profile_images/834513274053939200/tyqAKoJk_normal.jpg"},"score":0.01338945520101357,"baseOn":[["https//tco/afzkvlpb7u",0.056495376766691696],["https//tco/wcuobxf26z",0.056495376766691696],["https//tco/kcrrzkgap4",0.056495376766691696],["generals",0.056495376766691696],["hotel/theme",0.09159098960660625],["@sportsantaclara",0.09159098960660625],["https//tco/4e8cyk9yca"]]},{"userProfile":{"protected":false,"id":31122496,"name":"NCAA","screen_name":"NCAA","profile_image_url":"http://pbs.twimg.com/profile_images/188987758/NCAA_primaryc_normal.gif"},"score":0.013059604259054404,"baseOn":[["rankings\n1",0.05738929095603809],["mens",0.05383855499756907],["#ncaagym",0.031882939420021156],["ohio",0.028411883076897203],["championship",0.028043951208965467],["crk",0.04674111906965997],["coyote",0.03579995777275719]]},{"userProfile":{"protected":false,"id":453784750,"name":"Lauren Hernández","screen_name":"LaurenPorFavor","profile_image_url":"http://pbs.twimg.com/profile_images/709497692485910528/bItOVlgM_normal.jpg"},"score":0.012565045514448647,"baseOn":[["@salem_statesman",0.17271443754388605],["salem",0.17271443754388605],["https//tco/va2gh…",0.08635721877194302],["kerman",0.08635721877194302],["many\nhttps//tco/kmv3opqmhf",0.08635721877194302],["@officialmissval",0.05985153776273279,0.05985153776273279],["#4sup",0.05985153776273279,0.05985153776273279]]},{"userProfile":{"protected":false,"id":16573941,"name":"Netflix US","screen_name":"netflix","profile_image_url":"http://pbs.twimg.com/profile_images/744949842720391168/wuzyVTTX_normal.jpg"},"score":0.012441735370533379,"baseOn":[["@netflix",0.04883344814377486],["@realbritt_rob",0.038018901346138445],["screen"]]},{"userProfile":{"protected":false,"id":2425151,"name":"Facebook","screen_name":"facebook","profile_image_url":"http://pbs.twimg.com/profile_images/3513354941/24aaffa670e634a7da9a087bfa83abe6_normal.png"},"score":0.012386846827855165,"baseOn":[["mg",0.18343853660706852],["af",0.1196214296967258],["hi",0.11109650413264688],["please",0.06570813574780354],["account",0.04149182819529881],["#oilers",0.05174265018014546]]},{"userProfile":{"protected":false,"id":560033907,"name":"San Jose report","screen_name":"SanJosereport","profile_image_url":"http://pbs.twimg.com/profile_images/2244924822/San-Jose-real-estate_normal.jpg"},"score":0.01229265320574177,"baseOn":[["mercury",0.10276862825391272],["jose",0.08348099478654832],["san",0.080142083622236],["news",0.04011931893024108],["sharks",0.02306089181642143]]},{"userProfile":{"protected":false,"id":223076395,"name":"Delta Gamma · SJSU","screen_name":"DGSJSU","profile_image_url":"http://pbs.twimg.com/profile_images/782989739930509312/ai6ae-k4_normal.jpg"},"score":0.012283652043304597,"baseOn":[["sisters",0.2744029577295456],["itb",0.1950001714205165],["\uD83D\uDC93",0.1950001714205165],["https//tco/mrursat10o",0.1950001714205165],["initiated",0.1950001714205165,0.04995872160360341],["glimpses",0.04995872160360341],["infrastructureone",0.04995872160360341],["https//tco/qtvxhqokrx",0.05302636240382466],["@qualcomm",0.05302636240382466]]},{"userProfile":{"protected":false,"id":10228272,"name":"YouTube","screen_name":"YouTube","profile_image_url":"http://pbs.twimg.com/profile_images/839944837172428802/FKhayf-__normal.jpg"},"score":0.011861380892245798,"baseOn":[["→",0.17820923905104039],["→…",0.018811452138755944],["\uD83D\uDC4F",0.01725351454374111],["@gorillaz",0.01593586638146576],["\uD83D\uDC69",0.01593586638146576]]},{"userProfile":{"protected":false,"id":468976278,"name":"AJS","screen_name":"Aj_samataua","profile_image_url":"http://pbs.twimg.com/profile_images/830918293376503809/RblWRoIm_normal.jpg"},"score":0.011751240071888729,"baseOn":[["libra",0.122652281734064],["https//tco/1jnhzjy8oo",0.1051305272006263],["spurs",0.035644305782440856],["@spurs",0.03504350906687543],["kawhi"]]},{"userProfile":{"protected":false,"id":522849615,"name":"iSchoolConnext","screen_name":"iSchoolConnext","profile_image_url":"http://pbs.twimg.com/profile_images/568065291288993792/7Ddolba2_normal.jpeg"},"score":0.011618999138732282,"baseOn":[["@ariell_curator",0.14392869795323837],["https//tco/i6udvq0j4a",0.14392869795323837],["posi…",0.14392869795323837],,0.11777126250875956]]},{"userProfile":{"protected":false,"id":14738804,"name":"Kevin W. Grossman","screen_name":"KevinWGrossman","profile_image_url":"http://pbs.twimg.com/profile_images/778019421684047872/alchAcEq_normal.jpg"},"score":0.011576592368513449,"baseOn":[["#reachwest",0.16845328972375823],["#hr",0.10272062193256026],["#news",0.08905492386670022],["#social",0.06934427471490111]]},{"userProfile":{"protected":false,"id":122856634,"name":"Henry Wofford","screen_name":"HWoffordSports","profile_image_url":"http://pbs.twimg.com/profile_images/751515060/wofford-henry-_normal.jpg"},"score":0.011574932072071513,"baseOn":[["@norcalboxingfan",0.09519693407930728],["brother",0.057434803799017976],["westbrook"],["@glenroygrey",0.04759846703965364],["flashbacks",0.04759846703965364]]},{"userProfile":{"protected":false,"id":22694478,"name":"SF State","screen_name":"SFSU","profile_image_url":"http://pbs.twimg.com/profile_images/378800000105710199/42e858bd970ecfcedbde09b148f643c0_normal.png"},"score":0.011513983752516265,"baseOn":[["clanton",0.1695780051504885],["advised",0.09406242898634377,0.02572342686823835],["https//tco/mqbg9zggcy",0.02572342686823835],["bestfriend",0.02572342686823835],["napa",0.025788182567452973],["https//tco/yhyf3p8ayf",0.02343025315517834],["i",0.01651256711522871,0.17315618649872788],["#quakes74"],["|",0.04102240297220297],["@houstondynamo",0.03610754791858245],["@nerevolution"]]},{"userProfile":{"protected":false,"id":153492935,"name":"Commun.it","screen_name":"commun_it","profile_image_url":"http://pbs.twimg.com/profile_images/378800000357214052/b4755b1c0a8d01ed08fa310c493f5f31_normal.png"},"score":0.011142067975083146,"baseOn":[["communit",0.29335561601707244],["https//tco/e4hg9p4tlk",0.2792584353846731],["dashboard",0.25971815706041546],["login",0.24004150495122412],["gtgt",0.19244323914710149],["(\uD83D\uDCF7…",0.088463492400527]],0.05204526129330697],["data",0.03154066898767626],["black",0.02958365476093791],["josé",0.1977832591248895]]},{"userProfile":{"protected":false,"id":269876036,"name":"Michelson 20MM Fdn","screen_name":"Michelson20MM","profile_image_url":"http://pbs.twimg.com/profile_images/807325226237235200/vIlzYqDS_normal.jpg"},"score":0.011037682425415002,"baseOn":[["@morganlewislaw",0.12336745538849003],["#startup",0.12336745538849003],["@wework",0.10094679643607962],["legal",0.06327686397693003]]},{"userProfile":{"protected":false,"id":44196397,"name":"Elon Musk","screen_name":"elonmusk","profile_image_url":"http://pbs.twimg.com/profile_images/782474226020200448/zDo-gAo0_normal.jpg"},"score":0.011035233585985911,"baseOn":[["moo",0.13508391763208966],["@creepypuppet",0.10131293822406724],["@cowanfilms",0.10131293822406724],["@teslamotors",0.07807895451814728],["@realamberheard",0.06754195881604483]]},{"userProfile":{"protected":false,"id":530955582,"name":"SJSU Human Rights","screen_name":"SJSUHumanRights","profile_image_url":"http://pbs.twimg.com/profile_images/1911605088/smithcarlos_statue_web_normal.jpg"},"score":0.011009553731388195,"baseOn":[["trump",0.03436830980603368],["nicer",0.0259442288156052],["#makeamericasantaclaraaga…",0.0259442288156052],["falsified",0]]},{"userProfile":{"protected":false,"id":308860209,"name":"Stix","screen_name":"LewieXV","profile_image_url":"http://pbs.twimg.com/profile_images/759863635426496512/zXN4QIby_normal.jpg"},"score":0.010958275963170805,"baseOn":[["@notorious_nesto",0.10333342417155578],["#options",0.05166671208577789]]},{"userProfile":{"protected":false,"id":96803375,"name":"SJSU SAASC","screen_name":"sjsu_saasc","profile_image_url":"http://pbs.twimg.com/profile_images/639888697849196544/o1dVF8Zw_normal.jpg"},"score":0.010737657155746407,"baseOn":[["archeota",0.2418002125614405],["published",0.16396380659922793],["deadline",0.10444072438203464],["@sutrolibrary",0.0806000708538135],["https//tco/lsmjsyiwwj",0.0806000708538135,0.03588645163787513,0.03535090826921644],["carne",0.03535090826921644]]},{"userProfile":{"protected":false,"id":152900581,"name":"Marlon Maloney","screen_name":"marlonmaloney","profile_image_url":"http://pbs.twimg.com/profile_images/611851196681170944/e9xL9UzB_normal.jpg"},"score":0.010571061167828074,"baseOn":[["@billsimmons",0.13551761713336719],["#bulls",0.10996968767416575],["@jakeley_br"],["fortunes",0.04140414598654803]]},{"userProfile":{"protected":false,"id":37144376,"name":"Dave Cortese","screen_name":"DaveCortese","profile_image_url":"http://pbs.twimg.com/profile_images/420321331310112769/yR2dZ2S9_normal.jpeg"},"score":0.010411460470333665,"baseOn":[["@davecortese",0.06720556669093805],["@sccgov",0.06008429958115418],["@mercnews"],["dollarhyde",0.045795494803303124]]},{"userProfile":{"protected":false,"id":37886367,"name":"San Jose Events","screen_name":"SanJoseEvents","profile_image_url":"http://pbs.twimg.com/profile_images/1295545266/events-logo-sanjose_normal.png"},"score":0.010327398421453263,"baseOn":[["sofa",0.5085855234640015],["https//tco/jru3beyjw3",0.4317860938597151],["@renee_dahan"],["fair",0.34020623827233787]]},{"userProfile":{"protected":false,"id":73507922,"name":"CSSA","screen_name":"csustudents","profile_image_url":"http://pbs.twimg.com/profile_images/786654750469087232/jgOAmPSo_normal.jpg"},"score":0.010196491419790758,"baseOn":[["latino/latina"],["hispanic",0.09159987084014633],["populations",0.08214013706670206],["institutions",0.07590916972186479],["abroad",0.06301104955271047],["#studyabroad"],["via",0.044777817141007495]]},{"userProfile":{"protected":false,"id":23244842,"name":"Mountain West","screen_name":"MountainWest","profile_image_url":"http://pbs.twimg.com/profile_images/464072984982851584/QUcT2omb_normal.png"},"score":0.01006214414717169,"baseOn":[["@mw_olysports"],["#mwmgolf",0.06899479287310636]]},{"userProfile":{"protected":false,"id":4723875433,"name":"San Jose State XC/TF","screen_name":"sjsudistance","profile_image_url":"http://pbs.twimg.com/profile_images/806638044858023936/p07T9jdE_normal.jpg"},"score":0.010018024968593284,"baseOn":[["weekend\n\n#tracknation…",0.40300035426906744],["https//tco/crldhxrjxa",0.40300035426906744],],["bulldog",0.3297595350245268],["invitational",0.3105807301944081],["gilroy",0.08760877266718858],["family)",0.08760877266718858]]},{"userProfile":{"protected":false,"id":25034792,"name":"Cal Maritime","screen_name":"Cal_Maritime","profile_image_url":"http://pbs.twimg.com/profile_images/611918317511553024/Qdt17F9b_normal.png"},"score":0.009619960704584223,"baseOn":[["maritime",0.2186251060936089],["cal",0.0667956388291272],["academy",0.06572757633739518]]},{"userProfile":{"protected":false,"id":304479031,"name":"San Jose Airport","screen_name":"FlySJC","profile_image_url":"http://pbs.twimg.com/profile_images/476409671054401536/HqEwDItS_normal.jpeg"},"score":0.00946492910882038,"baseOn":[["@tsa",0.12150764450323642],["@flysfo",0.0668678502754057],["@clear",0.06075382225161821],["memorial",0.21030890374265646],["2016"]]},{"userProfile":{"protected":false,"id":101896529,"name":"HuffPost College","screen_name":"HuffPostCollege","profile_image_url":"http://pbs.twimg.com/profile_images/856706066306015233/n2VLQVUA_normal.jpg"},"score":0.00934507569986586,"baseOn":[["trump\nhttps//tco/pmihyqjgrb",0.09595246530215891],["foes\nhttps//tco/ovqkxs4wtc",0.09595246530215891],["betsy",0.09595246530215891]]},{"userProfile":{"protected":false,"id":188209861,"name":"San Jose Delta U","screen_name":"SanJoseDeltaU","profile_image_url":"http://pbs.twimg.com/profile_images/827601717378158593/9HDqXJVa_normal.jpg"},"score":0.009288203078079208,"baseOn":[["@lalajada",0.06570657950039144],["@nick_thesavage",0.0581723710160442],["@alphaxideltasj",0.04182370365978035]]},{"userProfile":{"protected":false,"id":37778390,"name":"CA Great America","screen_name":"CAGreatAmerica","profile_image_url":"http://pbs.twimg.com/profile_images/816770379771363328/hTjVAWgO_normal.jpg"},"score":0.00928752143707506,"baseOn":[["#greatamerica",0.06830514479136737],["patriot",0.052640801727865776],["reason",0.04371643069892009],["favorite",0.035164633906506614],["https//tco/5i8kmxhfcb",0.034152572395683686],["ive",0.0708849229280909],["discouraging\n\n/end"],["pivoted",0.06570657950039144]]},{"userProfile":{"protected":false,"id":542112619,"name":"Travie Trav","screen_name":"Travis_Miller51","profile_image_url":"http://pbs.twimg.com/profile_images/738110306820333568/WBBcPh3V_normal.jpg"},"score":0.00900310860873881,"baseOn":[["@nikki_crystal",0.14743915400087834],["@alcala_paige",0.14743915400087834],["@nadia_helo",0.14743915400087834],["cali"]]},{"userProfile":{"protected":false,"id":352666300,"name":"SPATO SJSU","screen_name":"SPATOSJSU","profile_image_url":"http://pbs.twimg.com/profile_images/786276769431027712/6obuIBul_normal.jpg"},"score":0.008877694843430652,"baseOn":[["@mnhopper1s",0.08889713697111783],["ats",0.08889713697111783],["heat"],["assis…",0]]},{"userProfile":{"protected":false,"id":816298918468259841,"name":"Rep. Ro Khanna","screen_name":"RepRoKhanna","profile_image_url":"http://pbs.twimg.com/profile_images/842459128568119296/DYG-8YW7_normal.jpg"},"score":0.008776355048612097,"baseOn":[["pac",0.12163313939718334],["swamp",0.09316125374956133,0.06869324220495468],["horrified",0.09022395991098525],["@atlnational",0.09022395991098525],["\n\napril",0.09022395991098525]]},{"userProfile":{"protected":false,"id":447551025,"name":"Tim Crawley","screen_name":"Tim_Crawley","profile_image_url":"http://pbs.twimg.com/profile_images/691102273703845889/9A4jEaTN_normal.jpg"},"score":0.008673071552815948,"baseOn":[["@da_homie_tia",0.15633634432851756],["quessenberry",0.06837178917855476],["https//tco/8dgfljy1dm"],["@d_coop17",0.052112114776172516],["https//tco/ognxalihkq",0.08760877266718858],["\uD83C\uDF3A\nhttps//tco/deizcby9n7",0.08760877266718858],["fever”",0.08760877266718858]],0.22447425903465731],["coordinator",0.09504787289146953],["withdrawn",0.08635721877194302],["kaamp",0.07196434897661919]]},{"userProfile":{"protected":false,"id":2151229416,"name":"Lucas College SJSU","screen_name":"LucasCollege","profile_image_url":"http://pbs.twimg.com/profile_images/378800000637709096/35301f65b653b25d60775d7f71bcd647_normal.jpeg"},"score":0.008376818984469382,"baseOn":[["https//tco/fuvku8brns",0.1633785220009733],["2017/spring",0.1633785220009733],["pm\nintern",0.1633785220009733],["https//tco/smzn1cbyrh",0.1633785220009733],["#caewx",0.17437515328950035],["#scwx",0.17437515328950035],["columbia"],["humidity",0.1029203487206936]]},{"userProfile":{"protected":false,"id":81111260,"name":"NFL Films","screen_name":"NFLFilms","profile_image_url":"http://pbs.twimg.com/profile_images/816705324107399169/EU0h9Wnk_normal.jpg"},"score":0.008288579931592398,"baseOn":[["@jawsespn",0.12026647490957453],["#draftday",0.10469013377339598]]},{"userProfile":{"protected":false,"id":577400463,"name":"Santa Clara Cnty Bar","screen_name":"SCCBarAssn","profile_image_url":"http://pbs.twimg.com/profile_images/816372843898236928/iBmtzyZR_normal.jpg"},"score":0.008262413573420408,"baseOn":[["law",0.08718385809530252],["digest",0.08233627897655488],["contribution"],["psychologist",0.04116813948827744]]},{"userProfile":{"protected":false,"id":1343285184,"name":"Jonathan Lovell","screen_name":"jlovellsjawp","profile_image_url":"http://pbs.twimg.com/profile_images/3504628743/5d96dc8b74a3fe299e6fd9fc95a45284_normal.jpeg"},"score":0.008204019788499852,"baseOn":[["@c0nvey",0.24485625447276121],["by…",0.08037441499962154],["#bbcbreaking",0.0790196773076603],["via",0.06452244627872308,0.14866272592989074],["\n2",0.12940863758100335],["\n1",0.11194454285251873]]},{"userProfile":{"protected":false,"id":267938462,"name":"Rep. Zoe Lofgren","screen_name":"RepZoeLofgren","profile_image_url":"http://pbs.twimg.com/profile_images/510125443094024192/eVbv3QDN_normal.jpeg"},"score":0.008152706289267052,"baseOn":[["1695",0.10756237213587211],["copyright",0.07892468686124399],["modernization",0.07618303392848493],["#copyright",0.05425752741071212]]},{"userProfile":{"protected":false,"id":323282033,"name":"San Jose State WBB","screen_name":"sjswbb","profile_image_url":"http://pbs.twimg.com/profile_images/603349404511178752/ROyBkrEU_normal.jpg"},"score":0.008123949941149834,"baseOn":[["#wersparta",0.09222241331060874],["registration",0.07610271143712163],["https//tco/73alfmm6hm",0.07029075946553502],["https//tco/nkga2dhhet"]]},{"userProfile":{"protected":false,"id":239598054,"name":"The San Jose Improv","screen_name":"ImprovSanJose","profile_image_url":"http://pbs.twimg.com/profile_images/689865694242934785/oapIBk6N_normal.png"},"score":0.008084106530172117,"baseOn":[["https//tco/prcebzfm1t",0.12793662040287856],["@improvsanjose"],["@mycorreale",0.06396831020143928],["4/2730",0.06396831020143928]]},{"userProfile":{"protected":false,"id":3386226064,"name":"SJSU Football","screen_name":"TheSJSUSpartan","profile_image_url":"http://pbs.twimg.com/profile_images/623561116929519616/kpjfB0nC_normal.jpg"},"score":0.007994245880878855,"baseOn":[["#sjsuspartans",0.25008059825669576],["w",0.08508935099391388],["baseball"]]},{"userProfile":{"protected":false,"id":32530945,"name":"Works/San Jose","screen_name":"WorksSanJose","profile_image_url":"http://pbs.twimg.com/profile_images/556161516290863107/zN0_NSFy_normal.jpeg"},"score":0.007975689361295524,"baseOn":[["alternative",0.1054202879166751],["https//tco/zk8m59qqzc",0.08514091991600017],["joes",0.08514091991600017],["svlaureate"]]},{"userProfile":{"protected":false,"id":70829225,"name":"Isaac Thornton","screen_name":"iceethornton","profile_image_url":"http://pbs.twimg.com/profile_images/856586069755568128/Wb6vZmDA_normal.jpg"},"score":0.007934655951634038,"baseOn":[["https//tco/ibhpucz2gl",0.09022395991098525],["https//tco/eft4xtvdtw",0.09022395991098525,0.09022395991098525],["https//tco/wjsjjqsr2z",0.09022395991098525]]},{"userProfile":{"protected":false,"id":2511461743,"name":"Right Relevance","screen_name":"rightrelevance","profile_image_url":"http://pbs.twimg.com/profile_images/471740713659400193/DQZE-9rB_normal.png"},"score":0.007834705491211737,"baseOn":[["@rightrelevance",0.2968529395285542],["@vmishrra",0.10794652346492878],["@evankirstel",0.10794652346492878]]},{"userProfile":{"protected":false,"id":523672021,"name":"Sigma Nu","screen_name":"SigmaNu_SJSU","profile_image_url":"http://pbs.twimg.com/profile_images/681396291243393024/fYgPABjV_normal.jpg"},"score":0.007643410526435309,"baseOn":[["\uD83C\uDF81\uD83C\uDF88\uD83C\uDF8A\uD83C\uDF89\uD83C\uDF82"],["https//tco/twdtbshnuf",0.09022395991098525],["https//tco/p67jv3dg1h",0.09022395991098525],["https//tco/bjgaw0rplh",0.09022395991098525],["#booximan",0.09022395991098525]]},{"userProfile":{"protected":false,"id":308280527,"name":"PikeSJSU","screen_name":"PikeSJSU","profile_image_url":"http://pbs.twimg.com/profile_images/783037959717085184/VJbBkS7Z_normal.jpg"},"score":0.007561073821931229,"baseOn":[["needless",0.1831819792132125],["φφκα",0.1831819792132125],["@wayallday",0.1831819792132125],["https//tco/ppljjiisve",0.16217751919624446]]},{"userProfile":{"protected":false,"id":159327544,"name":"TEDxBayArea","screen_name":"TEDxBayArea","profile_image_url":"http://pbs.twimg.com/profile_images/1021933109/tedxbayareafacebooksm_normal.jpg"},"score":0.007469594103301838,"baseOn":[["@glfceo",0.20844845910469006],["https//tco/jexxidpkle",0.10422422955234503],["intersting",0.10422422955234503]]},{"userProfile":{"protected":false,"id":1636590253,"name":"Tim Cook","screen_name":"tim_cook","profile_image_url":"http://pbs.twimg.com/profile_images/378800000483764274/ebce94fb34c055f3dc238627a576d251_normal.jpeg"},"score":0.007391844830774041,"baseOn":[["ulusal"],["egemenlik",0.11625010219300023],["badge",0.11625010219300023],["çektiği",0.11625010219300023],]]},{"userProfile":{"protected":false,"id":351394579,"name":"Richard Craig","screen_name":"SJSUProfCraig","profile_image_url":"http://pbs.twimg.com/profile_images/1500727076/rc_facebook_normal.jpg"},"score":0.007209037372801374,"baseOn":[["sharks",0.11775670884568436],["https//tco/c3hscsjejy",0.08514091991600017,0.08514091991600017],["https//tco/imhaoina4m",0.08514091991600017]]},{"userProfile":{"protected":false,"id":16371731,"name":"Santa Cruz Boardwalk","screen_name":"beachboardwalk","profile_image_url":"http://pbs.twimg.com/profile_images/468488811085709314/m4z8yXMi_normal.png"},"score":0.007194560621347645,"baseOn":[["\uD83D\uDE0E\uD83C\uDFB8",0.46500040877200094],["beach",0.23850510268227473],["announcing",0.23080637510096835,0.18579391840096865],["dog",0.05277892883393947],["kgotv",0.0904604068527402,0.07081767070364352],["amor",0.15500013625733364],["peer…",0.15500013625733364],["https//tco/lmlgr7wkzn",0.15500013625733364],["https//tco/gjrblkxany",0.15500013625733364]]},{"userProfile":{"protected":false,"id":2270885526,"name":"David Fales","screen_name":"dfales10","profile_image_url":"http://pbs.twimg.com/profile_images/462256301351788545/_jnfTmE5_normal.jpeg"},"score":0.006916924592115217,"baseOn":[["\n\n#spartanup",0.1679168142787781],["https//tco/gb5c9dcuzx",0.1679168142787781],["@thegundy",0.14866272592989074],["\uD83D\uDC4C\uD83C\uDFFC",0.12940863758100335],["#energystorage",0.3555885478844713],["$155",0.3555885478844713,0.3555885478844713],["ny",0.2003498814365149,0.21121749531437672],["comic",0.19906491257246642],["con",0.19636917485940591],["rocking",0.1782104867162841]]},{"userProfile":{"protected":false,"id":266283696,"name":"carolyn","screen_name":"carolynseng","profile_image_url":"http://pbs.twimg.com/profile_images/846573229904842754/1OBr1Gst_normal.jpg"},"score":0.006643007313123261,"baseOn":[["widespread",0.09384831065121445],["larkin",0.09384831065121445],["@kierenmccarthy",0.07371957700043917],["https//tco/nc8urcwnh3",0.07371957700043917]]},{"userProfile":{"protected":false,"id":18442668,"name":"ZERO1","screen_name":"ZERO1_ART","profile_image_url":"http://pbs.twimg.com/profile_images/1595491376/YoutubeBanner800_800_normal.jpg"},"score":0.0066185164404459545,"baseOn":[["#artsincubator"],["https//tco/dsc9w6raxb",0.07651905460805078],["demostrará",0.07651905460805078]]]},{"userProfile":{"protected":false,"id":13298072,"name":"Tesla","screen_name":"TeslaMotors","profile_image_url":"http://pbs.twimg.com/profile_images/489192650474414080/4RxZxsud_normal.png"},"score":0.006577519962973123,"baseOn":[["tesla",0.09158041990985459],["powerwall",0.07953954360573699],["https//tco/gas3gafqqe",0.07953954360573699],["https//tco/7pr1wyky31",0.07953954360573699],["https//tco/uzwrvqbwef",0.07953954360573699]]},{"userProfile":{"protected":false,"id":424592258,"name":"4th St. Pizza Co.","screen_name":"4thStreetPizza","profile_image_url":"http://pbs.twimg.com/profile_images/654371705620598784/glf6tEAk_normal.jpg"},"score":0.0065395779390955535,"baseOn":[["pints",0.1679168142787781],["⚾\uD83D\uDD25",0.14692721249393084],["\uD83C\uDF7B",0.14692721249393084],["batter",0.11149704444741805],["beer",0.10875174864295234]]},{"userProfile":{"protected":false,"id":145891108,"name":"History San Jose","screen_name":"HistorySanJose","profile_image_url":"http://pbs.twimg.com/profile_images/914632730/sjhistory_normal.jpg"},"score":0.006478379927444777,"baseOn":[["https//tco/pnefhs9edf",0.11405670403841532],["devistating",0.11405670403841532],["muirs",0.11405670403841532]]},{"userProfile":{"protected":false,"id":55379482,"name":"Steve Clarkson","screen_name":"steveclarkson","profile_image_url":"http://pbs.twimg.com/profile_images/638803420871131136/1C4YsGe7_normal.jpg"},"score":0.006436309309746757,"baseOn":[["@qb1show",0.12009944332521878],["finale",0.05429265119179733],["season",0.04003314777507293]]},{"userProfile":{"protected":false,"id":795478333,"name":"Kappa Sigma","screen_name":"KappaSigmaSJSU","profile_image_url":"http://pbs.twimg.com/profile_images/725442020118921216/WLarR4g__normal.jpg"},"score":0.006425295024004362,"baseOn":[["agowe",0.17779427394223565],["\uD83E\uDD18\uD83C\uDFFD\uD83C\uDFC8\uD83D\uDC78\uD83C\uDFFC",0.17779427394223565],["https//tco/zkbz…",0.17779427394223565],["dani"]]},{"userProfile":{"protected":false,"id":1689515348,"name":"Carlos A Sanchez","screen_name":"locoprof","profile_image_url":"http://pbs.twimg.com/profile_images/378800000336702931/bb53430e6416410332d11c91ca40e71a_normal.jpeg"},"score":0.006408431603754056,"baseOn":[["\uD83D\uDC94",0.05784694080417236],["@bhallakamal",0.02892347040208618],["@jodyhighroller",0.02892347040208618],["@sameg24",0.02892347040208618]]},{"userProfile":{"protected":false,"id":432072014,"name":"Donte Williams","screen_name":"coachD_GBR","profile_image_url":"http://pbs.twimg.com/profile_images/805877106974584836/RUv7hHbZ_normal.jpg"},"score":0.006406405293163945,"baseOn":[["@huskerfbnation",0.12659696992745575],["@picksixpreviews",0.06329848496372788]]},{"userProfile":{"protected":false,"id":2557214670,"name":"SoFA Market","screen_name":"SoFAMarketSJ","profile_image_url":"http://pbs.twimg.com/profile_images/842508769896497152/9woaTYnx_normal.jpg"},"score":0.006400983625525574,"baseOn":[["#dtsj",0.1538845637141389],["#powerlunch",0.14743915400087834],["#girlbosses",0.14743915400087834],["https//tco/rugky3cgdn",0.14743915400087834]]},{"userProfile":{"protected":false,"id":196802456,"name":"monica calvillo","screen_name":"monica752","profile_image_url":"http://pbs.twimg.com/profile_images/820498131611631616/aubgAJaA_normal.jpg"},"score":0.006279874252053439,"baseOn":[["@omgeezyjames",0.09372101262071336],["tacos"],["\uD83D\uDE02\uD83D\uDE02\uD83D\uDE02\uD83D\uDE02",0.06355186302295657],["ok",0.05857313463767094]]},{"userProfile":{"protected":false,"id":22949899,"name":"Damian Trujillo","screen_name":"newsdamian","profile_image_url":"http://pbs.twimg.com/profile_images/88488691/Damian_Picture_normal.jpg"},"score":0.006273878860056177,"baseOn":[["https//tco/qurwp7v8h3",0.31815817442294797],["baggers"],["morse",0.1722324521998016,0.25187522141816715],["322\uD83D\uDCCD\nsalesforce",0.25187522141816715],["roldan\ndont",0.25187522141816715],["\uD83D\uDD55\uD83D\uDD63\nbbc",0.25187522141816715,0.26474475827894944],["#lambdasigmagamma",0.13237237913947472],["#lsgnr2017",0.08824825275964981]]},{"userProfile":{"protected":false,"id":249863804,"name":"Dan Ashley","screen_name":"DanAshleyABC7","profile_image_url":"http://pbs.twimg.com/profile_images/603832485139517440/zDJVV4as_normal.jpg"},"score":0.006139336676888018,"baseOn":[["@abc7newsbayarea"],["overnight\nhttps//tco/y3faygg95s",0.13053312520673332],["oneman"],["oakland",0.1149329687766866]]},{"userProfile":{"protected":false,"id":2875485462,"name":"Stacy Gleixner","screen_name":"StacyGleixner","profile_image_url":"http://pbs.twimg.com/profile_images/566042496002572288/WmBCOhNU_normal.jpeg"},"score":0.006111677503182338,"baseOn":[["@cucsj",0.12861713434119174],["https//tco/wc…",0.12861713434119174],["worldclass",0.11386932198885248],["elm",0.11386932198885248],["ept",0.11386932198885248],["https//tco/wst91ubnke",0.13141315900078288,0.13141315900078288]]},{"userProfile":{"protected":false,"id":240587622,"name":"San Jose Made","screen_name":"sjmade","profile_image_url":"http://pbs.twimg.com/profile_images/1336686905/sjmade_logo_final_normal.png"},"score":0.0059811380022752264,"baseOn":[["11a3p"],["whole",0.08883396392581407],["➡️",0.0,0.10794652346492878],["#homeofchampions",0.10794652346492878],["serra",0.10794652346492878],["bengals",0.10794652346492878],["https//tco/7dpkoponnd",0.10794652346492878],["@mvcfans",0.09022395991098525],["@valleyhoops",0.09022395991098525]]},{"userProfile":{"protected":false,"id":3027259567,"name":"Nicholas Enriquez","screen_name":"StanfordCoachE","profile_image_url":"http://pbs.twimg.com/profile_images/775774034248118272/71IeMamH_normal.jpg"},"score":0.005477213597771609,"baseOn":[["@stanfordbsb",0.33143056548945954],["#gostanford"],["#finalseas9n",0.05043508605274385],["\uD83E\uDD86",0.04323007375949472],["\uD83C\uDF32"]]},{"userProfile":{"protected":false,"id":591507779,"name":"Coach Sean Bernstein","screen_name":"BernieBabyyy","profile_image_url":"http://pbs.twimg.com/profile_images/722457829525721089/aqbloC_s_normal.jpg"},"score":0.005417808794117409,"baseOn":[["@latif_thomas",0.0967200850245762],["fast",0.06510721929265939,0.0483600425122881],["#vmi",0.0483600425122881],["https//tco/hioqbmtjwr",0.06430856717059587,0.06430856717059587],["@sherlysandberg",0.06430856717059587]]},{"userProfile":{"protected":false,"id":21417578,"name":"1590 KLIV","screen_name":"1590KLIV","profile_image_url":"http://pbs.twimg.com/profile_images/747462918820683778/WJ66jGZC_normal.jpg"},"score":0.005373827066554925,"baseOn":[["michaels",0.24506778300145995],["w/tony"],["baaaaaaaaaaaaaaack\uD83D\uDCFB@1590kliv",0.1633785220009733],["$ecret"]]},{"userProfile":{"protected":false,"id":1088427752,"name":"SiliconValley oGoing","screen_name":"SVoGoing","profile_image_url":"http://pbs.twimg.com/profile_images/3108867329/13b2acca565ef797aa4f5c6b1dc910e8_normal.jpeg"},"score":0.00537095067911674,"baseOn":[["https//tco/gvnpgntdjf",0.3487503065790007],["sv"],["gilroy",0.1635863786464599],["found",0.2833596240954381],["@crunge17",0.09445320803181269],["@svleadership…",0.09445320803181269],["stifling",0.09445320803181269]]},{"userProfile":{"protected":false,"id":2329571628,"name":"SIGMA CHI","screen_name":"SJSUSigmaChi","profile_image_url":"http://pbs.twimg.com/profile_images/457371196879679488/ZEjCVv2t_normal.jpeg"},"score":0.005247372722070034,"baseOn":[["@sjsusigmachi",0.15005209720026355],["\uD83C\uDF2E\uD83C\uDF89\uD83C\uDF8A"],["\uD83D\uDE0E\uD83C\uDF89\uD83C\uDF8A",0.056495376766691696],["onsie",0.056495376766691696],["apple",0.13961171232345143],["@kkriders",0.11852951596149043],["bezos",0.11852951596149043],["@angelaahrendts",0.11852951596149043]]},{"userProfile":{"protected":false,"id":232491643,"name":"SRJ iSchool SJSU","screen_name":"SRJiSchool","profile_image_url":"http://pbs.twimg.com/profile_images/378800000666283096/9807dbe75c0f06ea948e28331fdb2c22_normal.jpeg"},"score":0.005045315304292513,"baseOn":[["srj"],["@apa_style",0.09159098960660625,0.17521754533437717],["@genderatstate",0.13141315900078288],["https//tco/9bvylnmgl5",0.04380438633359429],["expunged",0.31815817442294797],["\n\nthe",0.2334509158737848],["gearing",0.22385504446357665,0.07283138932573509],["@mst3k",0.07283138932573509],["https//tco/uafeh14znc",0.07283138932573509]]},{"userProfile":{"protected":false,"id":15120684,"name":"San José Metblogs","screen_name":"SJMetblogs","profile_image_url":"http://pbs.twimg.com/profile_images/55581218/metblogs_icon_normal.png"},"score":0.004576182108385068,"baseOn":[["https//tco/etzcpucvwp",,0.26282631800156575],["https//tco/makbli26ro",0.26282631800156575],["https//tco/rikcxvjvsf",0.26282631800156575,0.10245771718705105],["https//tco/cln33wrvc8",0.10245771718705105],["barezs"]]},{"userProfile":{"protected":false,"id":29516755,"name":"Camera Cinemas","screen_name":"CameraCinemas","profile_image_url":"http://pbs.twimg.com/profile_images/577952998283821056/eVlPXEWy_normal.jpeg"},"score":0.004483764452634979,"baseOn":[["#camera3cinema",0.4116813948827744],["https//tco/fdetgv2c5r",0.23250020438600047,0.23250020438600047],["https//tco/roi9wkro9l",0.23250020438600047],["norman",0.2058406974413872]]},{"userProfile":{"protected":false,"id":34245862,"name":"MyGraduateSchool","screen_name":"MyGradSchool","profile_image_url":"http://pbs.twimg.com/profile_images/476464231/chess_image_normal.jpg"},"score":0.004479183310411242,"baseOn":[["https//tco/rrxe7zshls",0.25187522141816715],["policies",0.14500233152393643]]},{"userProfile":{"protected":false,"id":33936893,"name":"Annette Nellen","screen_name":"anellen","profile_image_url":"http://pbs.twimg.com/profile_images/1581828159/NellenTestimonyApril2011_normal.png"},"score":0.004404344837763068,"baseOn":[["tax",0.2042144423853933],["https//tco/nhcagwhdon",0.08168926100048665],["https//tco/4rtti1adao",0.08168926100048665],["blogs",0.08168926100048665]]},{"userProfile":{"protected":false,"id":18075491,"name":"Jill Stelfox","screen_name":"JillStelfox","profile_image_url":"http://pbs.twimg.com/profile_images/677729600085090304/QhL-8Ubm_normal.jpg"},"score":0.0043510796968356975,"baseOn":[["@karolynschalk…",0.2747729688198187],["#bloombergbreakaway",0.2747729688198187],["@trudylmccrea",0.2747729688198187],["https//tco/wlay42gi2k",0]]},{"userProfile":{"protected":false,"id":30814826,"name":"Roxana Marachi, PhD","screen_name":"ConnectEdProf","profile_image_url":"http://pbs.twimg.com/profile_images/1154776206/profpic_normal.jpg"},"score":0.004167638338168333,"baseOn":[["casecontrol",0.3358336285575562],["glioma",0.3358336285575562],["occupational",0.3358336285575562],["@ahosmikko"]]},{"userProfile":{"protected":false,"id":478821724,"name":"SJSU Quidditch","screen_name":"SJSUQuidditch","profile_image_url":"http://pbs.twimg.com/profile_images/770827609760419840/krKNz7Gs_normal.jpg"},"score":0.004094638655679711,"baseOn":[["#bestcoastclassic2",0.6280525001595857],["@swarmquidditch",0.23551968755984462],["@vipersquidditch",0.23551968755984462],["#californiadobbys",0.23551968755984462],["@sjsuquidditch"]]},{"userProfile":{"protected":false,"id":473152918,"name":"SJSU Spartan Squad","screen_name":"SJSpartanSquad","profile_image_url":"http://pbs.twimg.com/profile_images/1925632080/Profile_picture_1_normal.jpg"},"score":0.00402252620085004,"baseOn":[["blairtouchem",0.16724556667112708],["@sjsuspartanssb",0.16724556667112708],["https//tco/47mrw7vee5",0.16724556667112708],["@mw_olysports",0.1455847172786288]]},{"userProfile":{"protected":false,"id":335371445,"name":"Marti Malloy","screen_name":"Martidamus","profile_image_url":"http://pbs.twimg.com/profile_images/727635235995717634/k8NSTwFV_normal.jpg"},"score":0.0040172447369161614,"baseOn":[["@dollamurmma",0.26282631800156575],["https//tco/segc42rxjw",0.26282631800156575],["days\uD83D\uDE1D",0.26282631800156575],["trophies",0.26282631800156575],["https//tco/t4zvwzee7v",0.26282631800156575]]},{"userProfile":{"protected":false,"id":27049137,"name":"San Jose Sharks Buzz","screen_name":"sharksbuzztap","profile_image_url":"http://pbs.twimg.com/profile_images/575380880325111808/L3FTucFP_normal.png"},"score":0.003966604485335167,"baseOn":[["gtgt",0.3089116706726731],["csnbayarea​com",0.18616864191777574],["sharks",0.14641368569641552],]]},{"userProfile":{"protected":false,"id":27399143,"name":"Blake Sasaki","screen_name":"BSSK24","profile_image_url":"http://pbs.twimg.com/profile_images/615723778140585984/SrUcAmRy_normal.jpg"},"score":0.003922554906851818,"baseOn":[["@sjsuathletics",0.13901828507839809],["@brentsasaki",0.12336745538849003],["https//tco/pnojqwcgyz",0.12336745538849003],["https//tco/rafdi4…",0.10922159456073605],["scarlet",0.10094679643607962]],0.10422422955234503],["https//tco/juamcd0jju",0.10422422955234503],["@x_courtknee",0.10422422955234503]]},{"userProfile":{"protected":false,"id":29830347,"name":"90.5FM KSJS","screen_name":"ksjsfm","profile_image_url":"http://pbs.twimg.com/profile_images/621194943604768768/lcSPtlkH_normal.jpg"},"score":0.003808724246164181,"baseOn":[["@steveshankle",0.40300035426906744],["urban",0.22246367419558677],["#1",0.21411946466531973],["renaissance 2”",0.20150017713453372]]},{"userProfile":{"protected":false,"id":467890610,"name":"Alpha Kappa Omicron","screen_name":"AKOmicron_Gamma","profile_image_url":"http://pbs.twimg.com/profile_images/1765076552/logo_normal.jpg"},"score":0.0037540934747244447,"baseOn":[["#ako_happinessproject",0.31815817442294797],["https//tco/es7px0auai",0.31815817442294797],["your…",0,0.13742200576583502],["complete",0.12400662420642501]]},{"userProfile":{"protected":false,"id":2998764984,"name":"CM Raul Peralez","screen_name":"D3SanJose","profile_image_url":"http://pbs.twimg.com/profile_images/560230685974069248/OziKIU4U_normal.jpeg"},"score":0.0035199847379833345,"baseOn":[["d3decides"],["#sjd3"],["webpage"],["today\uD83D\uDE01",0.14392869795323837,0.14392869795323837],["showhosted"],["@k_smith31",0.14392869795323837]]},{"userProfile":{"protected":false,"id":24279043,"name":"SJSU PRIDE Center","screen_name":"SJSUPRIDE","profile_image_url":"http://pbs.twimg.com/profile_images/633393543818575872/bMI0HAgi_normal.png"},"score":0.003404531530616516,"baseOn":[["‘they",0,0.46500040877200094],["https//tco/hgsg08lcuv",0.46500040877200094],["pogrom",0.46500040877200094],["antigay",0.4116813948827744]]},{"userProfile":{"protected":false,"id":58819994,"name":"Adelante Live Promos","screen_name":"AdelanteLive","profile_image_url":"http://pbs.twimg.com/profile_images/565080415/ali_web_logo_normal.jpg"},"score":0.003163162892160281,"baseOn":[["#triadelphia",0.1950001714205165],["https//tco/zivhlby4wi",0.1950001714205165],["https//tco/0jhqrkuia7",0.1950001714205165],["$25/hr…",0.1950001714205165]]],["mcm",0.1950001714205165],["\uD83D\uDE02\uD83D\uDE02\uD83D\uDE02\uD83D\uDE02@mrwiilson",0.1950001714205165],["@youngasadd",0.1950001714205165]]},{"userProfile":{"protected":false,"id":39367770,"name":"El Teatro Campesino","screen_name":"teatrocampesino","profile_image_url":"http://pbs.twimg.com/profile_images/207626393/etc_logo_normal.jpg"},"score":0.0031363729761506257,"baseOn":[["https//tco/2cqfbfjzag",0.1633785220009733],["4june",0.1633785220009733],["https//tco/2k0vz0sy2l",0.1633785220009733],["#elteatrocampesino",0.1633785220009733],["#thelatc",0.1633785220009733]]},{"userProfile":{"protected":false,"id":201370209,"name":"SJSU COMM CENTER","screen_name":"SJSUCOMMCenter","profile_image_url":"http://pbs.twimg.com/profile_images/435702213726314496/kMfPWzhm_normal.jpeg"},"score":0.0030920220677620623,"baseOn":[["painless",0.3555885478844713],["hgh",0.2909642956098766],["preparation",0.2909642956098766]]},{"userProfile":{"protected":false,"id":30305052,"name":"Walt Jacobs","screen_name":"wrjacobs","profile_image_url":"http://pbs.twimg.com/profile_images/740776785818816512/gxSyB9uD_normal.jpg"},"score":0.0030100393115438597,"baseOn":[["dispatches",0.23250020438600047],["technologyassisted",0.23250020438600047],["https//tco/tnsmnu5rkz",0.23250020438600047],["10episode",0.2058406974413872]]},{"userProfile":{"protected":false,"id":400382639,"name":"Karl Mondon","screen_name":"karlmondon","profile_image_url":"http://pbs.twimg.com/profile_images/529319678506577920/NndlHU7s_normal.jpeg"},"score":0.0029114938721756926,"baseOn":[["@daviddebolt",0.09445320803181269],["@thomas_peele",0.09445320803181269],["lyft\n\nread",0.09445320803181269],["printproduction",0.09445320803181269]]},{"userProfile":{"protected":false,"id":5131,"name":"Jennifer Bullock","screen_name":"Jenguin","profile_image_url":"http://pbs.twimg.com/profile_images/566468452819288066/K-27i2YJ_normal.jpeg"},"score":0.002831379343317524,"baseOn":[["ooging",0.26282631800156575],["bu…",0.26282631800156575],["caterpillars",0.2326894840641768],,0.3358336285575562],["https//tco/dpgkdqtxwf",0.1679168142787781],["https//tco/trjxcobxmf",0.1679168142787781],["piper",0.14866272592989074]]},{"userProfile":{"protected":false,"id":348777894,"name":"Steve Bennet","screen_name":"ProfessorVC","profile_image_url":"http://pbs.twimg.com/profile_images/688615807660589056/oPUJju96_normal.jpg"},"score":0.002747493995824463,"baseOn":[["weeps\n#noooooo",0.6716672571151124],["#siliconvalleylife",0.6716672571151124],["\n#unicorn",0.6716672571151124],["https//tco/yduah7kyiv",0.6716672571151124],["#starbucks",0.5176345503240134],["jimmersimpson",0.1950001714205165],["dk",0.1950001714205165],["rters",0.1950001714205165,0.1343334514230225,0.1343334514230225],["https//tco/2qffg568to",0.1343334514230225]]},{"userProfile":{"protected":false,"id":37861681,"name":"Ann Killion","screen_name":"annkillion","profile_image_url":"http://pbs.twimg.com/profile_images/219247521/ANN_normal.jpg"},"score":0.0022608826099826534,"baseOn":[["401(k)s",0.12090010628072025],["https//tco/sj3akiwu…",0.12090010628072025],["@eamonjavers",0.12090010628072025],["deductions",0.12090010628072025],["baer",0.10703716266952133]]},{"userProfile":{"protected":false,"id":538154057,"name":"Postris","screen_name":"postrisapp","profile_image_url":"http://pbs.twimg.com/profile_images/757572300476735488/K6nax8o2_normal.jpg"},"score":0.002060894380003197,"baseOn":[["lemon",0.12940863758100335],["cake",0.07125519882777392],["printmaking",0.055972271426259365],["https//tco/m898ejxofi",0.055972271426259365],["https//tco/tuitgkxte3",0.3555885478844713],["belarmino",0.3555885478844713,0.3555885478844713],["roberto"]]},{"userProfile":{"protected":false,"id":518863150,"name":"Mathew Cabot","screen_name":"DrMattCabot","profile_image_url":"http://pbs.twimg.com/profile_images/735256057157537792/BEflkypx_normal.jpg"},"score":0.0018914866507448768,"baseOn":[["@sjsucomm",0.2334509158737848],["10th",0.1969694853179982],["communications",0.19195316006513902],["victorias",0.1950001714205165],["mentions",0.13222887628969995],["pizza",0.1241219592483804],["@omgacube"]]},{"userProfile":{"protected":false,"id":29473519,"name":"Tina Kapoor","screen_name":"TKapoorSJ","profile_image_url":"http://pbs.twimg.com/profile_images/662392972621680640/2-rrJeeL_normal.jpg"},"score":0.0018234593043065074,"baseOn":[["@academiccoffeesj",0.6716672571151124,0.594650903719563],["#dtsj",0.3505148395710941],["advance",0.31855016485422954]]},{"userProfile":{"protected":false,"id":198684338,"name":"Carolina Janssen","screen_name":"lija","profile_image_url":"http://pbs.twimg.com/profile_images/810675912526032896/cTWdhHFk_normal.jpg"},"score":0.0017521397890899598,"baseOn":[["catchup",0.26282631800156575],["https//tco/n4ioux7gnt",0.26282631800156575],["https//tco/my0lbunugz",0.26282631800156575]]},{"userProfile":{"protected":false,"id":189660322,"name":"SamanthaJoyce Nguyen","screen_name":"samanthajoycebn","profile_image_url":"http://pbs.twimg.com/profile_images/793134922386935810/FHcPJ4Hy_normal.jpg"},"score":0.0017438873078379172,"baseOn":[["@ethankanee",0.5037504428363343],["παφ",0.5037504428363343],["cousin",0.41219941878065847],["unlv",0.]]},{"userProfile":{"protected":false,"id":1357874930,"name":"SJSU H&A","screen_name":"SJSU_HA","profile_image_url":"http://pbs.twimg.com/profile_images/514552553900494848/IOuCpULn_normal.jpeg"},"score":0.0017195478725238048,"baseOn":[["https//tco/dhn76ytcup",0.5351858133476067,0.35600986642480115],["content",0.2909511098106862,0.23250020438600047],["#graduation",0.23250020438600047],["dashboards",0.23250020438600047,0.14743915400087834],["@mtaibbi",0.14743915400087834],["zeke"]]},{"userProfile":{"protected":false,"id":33439793,"name":"San Jose Bike Party","screen_name":"SJBikeParty","profile_image_url":"http://pbs.twimg.com/profile_images/147713971/l_41cf25d7228eddee86a8fa6223b1b4c9_normal.jpg"},"score":0.0015161196427525866,"baseOn":[["coop\n\n**missing",0.1679168142787781],["hire\nmissing",0.1679168142787781],["mechanic",0.1679168142787781],["8pm…",0.1679168142787781]],0.27722296260011947,0.22794437757735259],["fountain",0.21750349728590468,0.4317860938597151],["#idsawddc",0.4317860938597151],["freissler",0.4317860938597151],["@evolvecollab",0.4317860938597151],["jds",0.44517480994838854],["daily",0.2111320860080359],["latest",0.14123855678615307],["#eventprofs",0.12446181705758294],["flake",0.3358336285575562],["yoghurt",0.3358336285575562,0.3358336285575562]]},{"userProfile":{"protected":false,"id":479761676,"name":"SJSU Writing Center","screen_name":"TheWCatSJSU","profile_image_url":"http://pbs.twimg.com/profile_images/1795081505/writingcentertwitterlogo_normal.jpg"},"score":0.0010712481230659055,"baseOn":[["https//tco/qash3spqaf",0.1679168142787781],["#2bornot2b",0.1679168142787781],["multilingual"]]},{"userProfile":{"protected":false,"id":380583369,"name":"MESA San Jose","screen_name":"MSP_SJSU","profile_image_url":"http://pbs.twimg.com/profile_images/456135207448354816/TGS48tXo_normal.jpeg"},"score":5.919827794290464E-4,"baseOn":[["https//tco/igsm4vkxni",0.37781283212725075],["rcla",0.37781283212725075],["@tfhecommunity…",0]]},{"userProfile":{"protected":false,"id":168038917,"name":"Sundt Construction","screen_name":"Sundt","profile_image_url":"http://pbs.twimg.com/profile_images/847147118137565184/K0AmdpU3_normal.jpg"},"score":5.247938652938757E-4,"baseOn":[["sundt",0.46500040877200094],["#indeed",0.46500040877200094],["#jobs",0.46500040877200094],["construction"]]},{"userProfile":{"protected":false,"id":212342722,"name":"Carl Ihenacho","screen_name":"Cihenacho","profile_image_url":"http://pbs.twimg.com/profile_images/2382774543/up9qdqx1nq8uetx65ogo_normal.jpeg"},"score":2.878364487350163E-4,"baseOn":[["memphis",0.3882259127430101],["antonio",0.27270138264968585,0.20988706578498753],["im",0.12784548395993015]]},{"userProfile":{"protected":false,"id":1470136692,"name":"Andrew Rolin","screen_name":"CoachRolin","profile_image_url":"http://pbs.twimg.com/profile_images/690065942617952256/23PO-H0L_normal.jpg"},"score":2.6728058891922415E-4,"baseOn":[["#trulyblessed",0.6716672571151124],["jessie",0.6716672571151124],["#betterhalf",0.3282180956308551],["birthday",0.22844680749685972],["killed",0.23450451649277634],["#assassins",0.23450451649277634],["|"]]},{"userProfile":{"protected":false,"id":116485600,"name":"Draymond Green","screen_name":"Money23Green","profile_image_url":"http://pbs.twimg.com/profile_images/724646772337872899/b2OtF-YK_normal.jpg"},"score":0.0,"baseOn":[["https//tco/oqi4xuqmv3",3.022502657018006],["\uD83D\uDC40\uD83D\uDC40\uD83D\uDC40"]]},{"userProfile":{"protected":false,"id":34193459,"name":"Barnaby Dallas","screen_name":"BarnabyDallas","profile_image_url":"http://pbs.twimg.com/profile_images/750923780864684032/vQMvM6hm_normal.jpg"},"score":0.0,"baseOn":[["38700",2.6759290667380333

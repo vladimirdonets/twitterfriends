@@ -1,0 +1,1 @@
+java -jar -Dfile.encoding="UTF-8" -Xmx512m -Xms128m ./bin/twitter-friends-1.0.jar
